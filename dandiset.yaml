@@ -14,9 +14,21 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 11665694
+  numberOfFiles: 11
+  numberOfSubjects: 5
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
+    name: Rattus norvegicus - Norway rat
+    schemaKey: SpeciesType
+  variableMeasured: []
 citation: Pagan, Marino; Tang, Vincent D.; Aoi, Mikio C.; Pillow, Jonathan W.; Mante,
   Valerio; Sussillo, David; Brody, Carlos D. (2026) Individual variability of neural
   computations underlying flexible decisions (Version draft) [Data set]. DANDI Archive.
@@ -100,11 +112,6 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
-- awardNumber: 1 UF1 NS 111692-01
-  name: National Institutes of Health (NIH)
-  roleName:
-  - dcite:Funder
-  schemaKey: Organization
 - awardNumber: R21MH124383
   name: National Institutes of Health (NIH)
   roleName:
@@ -144,6 +151,7 @@ description: In this study rats were trained to perform a task requiring context
   the pulses. The context was kept constant in blocks of trials, and block switches
   occurred after a minimum of 30 trials per block, and when a local estimate of performance
   reached a threshold of 80% correct.
+ethicsApproval: []
 id: DANDI:001550/draft
 identifier: DANDI:001550
 license:
@@ -164,3 +172,4 @@ schemaKey: Dandiset
 schemaVersion: 0.6.10
 url: https://dandiarchive.org/dandiset/001550/draft
 version: draft
+wasGeneratedBy: []
