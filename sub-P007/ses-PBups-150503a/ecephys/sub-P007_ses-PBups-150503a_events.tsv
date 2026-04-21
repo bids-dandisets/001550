@@ -1,0 +1,4845 @@
+onset	duration	nwb_table	PBups_hit_history	PBups_violation_history	SidesSection_previous_sounds	SidesSection_previous_samples	SidesSection_previous_memory_gaps	SidesSection_previous_rt_task	SidesSection_previous_stims	PBupsSection_LocalPrevSides	PBupsSection_LocalPrevSounds	PBups_prot_title	state_type
+724.927085	4413.680498	trials	1.0	1.0	2.0			0.0	0.0	r	2.0	P	
+724.927085	4413.680498	states											"   state_name
+id           
+0     state_0"
+724.927085	0.016000999999960186	states											"          state_name
+id                  
+1   sending_trialnum"
+724.943086	0.009512999999969907	states											"           state_name
+id                   
+3   clean_sound_state"
+724.952599	0.001485000000002401	states											"   state_name
+id           
+4         iti"
+724.954084	105.39199900000006	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+830.346083	0.001504999999951906	states											"             state_name
+id                     
+8   play_stimulus_sound"
+830.347588	0.07150500000000193	states											"   state_name
+id           
+9      cpoke1"
+830.419093	0.20099000000004708	states											"        state_name
+id                
+12  temp_violation"
+830.620083	0.0364999999999327	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+830.656583	0.0015010000000756918	states											"             state_name
+id                     
+8   play_stimulus_sound"
+830.658084	0.28149899999993977	states											"   state_name
+id           
+9      cpoke1"
+830.939583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+831.140583	0.6900060000000394	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+831.830589	0.0014939999999796783	states											"             state_name
+id                     
+8   play_stimulus_sound"
+831.832083	0.05750000000000455	states											"   state_name
+id           
+9      cpoke1"
+831.889583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+832.090583	25.26300600000002	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+857.353589	0.0014989999999670545	states											"             state_name
+id                     
+8   play_stimulus_sound"
+857.355088	0.09150099999999384	states											"   state_name
+id           
+9      cpoke1"
+857.446589	0.20099400000003698	states											"        state_name
+id                
+12  temp_violation"
+857.647583	109.62500599999998	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+967.272589	0.0015029999999569554	states											"             state_name
+id                     
+8   play_stimulus_sound"
+967.274092	0.545001999999954	states											"   state_name
+id           
+9      cpoke1"
+967.819094	0.2009890000000496	states											"        state_name
+id                
+12  temp_violation"
+968.020083	23.487499999999955	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+991.507583	0.001506000000063068	states											"             state_name
+id                     
+8   play_stimulus_sound"
+991.509089	0.02400000000000091	states											"   state_name
+id           
+9      cpoke1"
+991.533089	0.20099400000003698	states											"        state_name
+id                
+12  temp_violation"
+991.734083	0.8550039999998944	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+992.589087	0.0014960000000883156	states											"             state_name
+id                     
+8   play_stimulus_sound"
+992.590583	0.320508000000018	states											"   state_name
+id           
+9      cpoke1"
+992.911091	0.20099299999992581	states											"        state_name
+id                
+12  temp_violation"
+993.112084	324.70399899999995	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+1317.816083	0.0015000000000782165	states											"             state_name
+id                     
+8   play_stimulus_sound"
+1317.817583	0.6980000000000928	states											"   state_name
+id           
+9      cpoke1"
+1318.515583	0.20099999999979445	states											"        state_name
+id                
+12  temp_violation"
+1318.716583	6.197000000000116	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+1324.913583	0.0015109999999367574	states											"             state_name
+id                     
+8   play_stimulus_sound"
+1324.915094	0.07298900000000685	states											"   state_name
+id           
+9      cpoke1"
+1324.988083	0.20100700000011784	states											"        state_name
+id                
+12  temp_violation"
+1325.18909	30.756492999999864	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+1355.945583	0.0015069999999468564	states											"             state_name
+id                     
+8   play_stimulus_sound"
+1355.94709	0.30249300000014046	states											"   state_name
+id           
+9      cpoke1"
+1356.249583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+1356.450583	177.56050499999992	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+1534.011088	0.001500999999962005	states											"             state_name
+id                     
+8   play_stimulus_sound"
+1534.012589	0.325994000000037	states											"   state_name
+id           
+9      cpoke1"
+1534.338583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+1534.539583	263.13151700000003	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+1797.6711	0.001483999999891239	states											"             state_name
+id                     
+8   play_stimulus_sound"
+1797.672584	0.09549900000001799	states											"   state_name
+id           
+9      cpoke1"
+1797.768083	0.2010050000001229	states											"        state_name
+id                
+12  temp_violation"
+1797.969088	0.5254949999998644	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+1798.494583	0.0015010000001893786	states											"             state_name
+id                     
+8   play_stimulus_sound"
+1798.496084	0.16799899999978152	states											"   state_name
+id           
+9      cpoke1"
+1798.664083	0.20101500000009764	states											"        state_name
+id                
+12  temp_violation"
+1798.865098	0.001500999999962005	states											"             state_name
+id                     
+8   play_stimulus_sound"
+1798.866599	0.32498400000008587	states											"   state_name
+id           
+9      cpoke1"
+1799.191583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+1799.392583	204.72699999999986	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2004.119583	0.0015130000001590815	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2004.121096	1.4534869999999955	states											"   state_name
+id           
+9      cpoke1"
+2005.574583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+2005.775583	0.747515999999905	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2006.523099	0.001483999999891239	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2006.524583	0.22300000000018372	states											"   state_name
+id           
+9      cpoke1"
+2006.747583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+2006.948583	0.8194999999998345	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2007.768083	0.0015000000000782165	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2007.769583	1.3530000000000655	states											"   state_name
+id           
+9      cpoke1"
+2009.122583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+2009.323583	0.0015029999999569554	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2009.325086	0.14600599999994301	states											"   state_name
+id           
+9      cpoke1"
+2009.471092	0.20099099999993086	states											"        state_name
+id                
+12  temp_violation"
+2009.672083	12.31300699999997	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2021.98509	0.0014930000002095767	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2021.986583	0.571999999999889	states											"   state_name
+id           
+9      cpoke1"
+2022.558583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+2022.759583	80.4130009999999	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2103.172584	0.0015050000001792796	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2103.174089	1.5420100000001185	states											"   state_name
+id           
+9      cpoke1"
+2104.716099	0.20099199999958728	states											"        state_name
+id                
+12  temp_violation"
+2104.917091	5.562001000000237	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2110.479092	0.0014909999999872525	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2110.480583	0.11549999999988358	states											"   state_name
+id           
+9      cpoke1"
+2110.596083	0.20101299999987532	states											"        state_name
+id                
+12  temp_violation"
+2110.797096	421.9859970000002	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2532.783093	0.001506000000063068	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2532.784599	0.37398399999983667	states											"   state_name
+id           
+9      cpoke1"
+2533.158583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+2533.359583	20.260499999999865	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2553.620083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2553.621583	0.18900600000006307	states											"   state_name
+id           
+9      cpoke1"
+2553.810589	0.2009939999998096	states											"        state_name
+id                
+12  temp_violation"
+2554.011583	0.7690000000002328	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2554.780583	0.0014999999998508429	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2554.782083	0.14049999999997453	states											"   state_name
+id           
+9      cpoke1"
+2554.922583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+2555.123583	0.001506000000063068	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2555.125089	1.9874939999999697	states											"   state_name
+id           
+9      cpoke1"
+2557.112583	0.20100099999990562	states											"        state_name
+id                
+12  temp_violation"
+2557.313584	0.003999000000021624	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2557.317583	0.0015109999999367574	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2557.319094	1.056489000000056	states											"   state_name
+id           
+9      cpoke1"
+2558.375583	0.20101599999998143	states											"        state_name
+id                
+12  temp_violation"
+2558.576599	56.472999999999956	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2615.049599	0.0014909999999872525	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2615.05109	0.25449299999991126	states											"   state_name
+id           
+9      cpoke1"
+2615.305583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+2615.506583	19.84349999999995	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2635.350083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2635.351583	0.2275089999998272	states											"   state_name
+id           
+9      cpoke1"
+2635.579092	0.20099200000004203	states											"        state_name
+id                
+12  temp_violation"
+2635.780084	113.43799900000022	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2749.218083	0.0014999999998508429	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2749.219583	0.20299999999997453	states											"   state_name
+id           
+9      cpoke1"
+2749.422583	0.20101599999998143	states											"        state_name
+id                
+12  temp_violation"
+2749.623599	24.487490999999864	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2774.11109	0.0014989999999670545	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2774.112589	0.6475000000000364	states											"   state_name
+id           
+9      cpoke1"
+2774.760089	0.20099600000003193	states											"        state_name
+id                
+12  temp_violation"
+2774.961085	10.694005000000288	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2785.65509	0.0014929999997548293	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2785.656583	0.3325070000000778	states											"   state_name
+id           
+9      cpoke1"
+2785.98909	0.20099299999992581	states											"        state_name
+id                
+12  temp_violation"
+2786.190083	71.88749999999982	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+2858.077583	0.0015030000004117028	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2858.079086	0.22299699999985023	states											"   state_name
+id           
+9      cpoke1"
+2858.302083	0.20100899999988542	states											"        state_name
+id                
+12  temp_violation"
+2858.503092	0.0015069999999468564	states											"             state_name
+id                     
+8   play_stimulus_sound"
+2858.504599	1.6379839999999604	states											"   state_name
+id           
+9      cpoke1"
+2860.142583	0.20101599999998143	states											"        state_name
+id                
+12  temp_violation"
+2860.343599	294.1764840000001	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+3154.520083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+3154.521583	0.987999999999829	states											"   state_name
+id           
+9      cpoke1"
+3155.509583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+3155.710583	1974.1585050000003	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5129.869088	0.0014949999995224061	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5129.870583	2.0000159999999596	states											"   state_name
+id           
+9      cpoke1"
+5131.870599	0.010989000000336091	states											"           state_name
+id                   
+13  center_2_side_gap"
+5131.881588	0.7229950000000827	states											"        state_name
+id                
+17  wait_for_spoke"
+5132.604583	0.0005019999998694402	states											"      state_name
+id              
+23  right_reward"
+5132.605085	2.000008999999409	states											"   state_name
+id           
+24  hit_state"
+5134.605094	3.0004960000005667	states											"          state_name
+id                  
+29  soft_drink_state"
+5137.60559	1.000992999999653	states											"   state_name
+id           
+26    warning"
+5138.606583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5138.608083	58.52300699999978	trials	1.0	1.0	2.0			0.0	0.0	r	2.0	B	
+5138.608083	58.52300699999978	states											"   state_name
+id           
+0     state_0"
+5138.608083	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5138.624083	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5138.633583	0.001510000000052969	states											"   state_name
+id           
+4         iti"
+5138.635093	13.341489999999794	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5151.976583	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5151.978083	0.12749999999959982	states											"   state_name
+id           
+9      cpoke1"
+5152.105583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5152.306583	36.10500000000047	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5188.411583	0.0015080000002853922	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5188.413091	2.000492999999551	states											"   state_name
+id           
+9      cpoke1"
+5190.413584	0.011015000000043074	states											"           state_name
+id                   
+13  center_2_side_gap"
+5190.424599	0.703483999999662	states											"        state_name
+id                
+17  wait_for_spoke"
+5191.128083	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5191.128583	2.0	states											"   state_name
+id           
+24  hit_state"
+5193.128583	3.0005070000006526	states											"          state_name
+id                  
+29  soft_drink_state"
+5196.12909	1.000992999999653	states											"   state_name
+id           
+26    warning"
+5197.130083	0.001006999999844993	states											"        state_name
+id                
+30  clean_up_state"
+5197.131583	43.297506999999314	trials	0.0	1.0	2.0			0.0	0.0	r	2.0	u	
+5197.131583	43.297506999999314	states											"   state_name
+id           
+0     state_0"
+5197.131583	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5197.147583	0.009506999999757682	states											"           state_name
+id                   
+3   clean_sound_state"
+5197.15709	0.0010010000005422626	states											"   state_name
+id           
+4         iti"
+5197.158091	2.3595079999995505	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5199.517599	0.0014890000002196757	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5199.519088	0.11349499999960244	states											"   state_name
+id           
+9      cpoke1"
+5199.632583	0.20100100000036036	states											"        state_name
+id                
+12  temp_violation"
+5199.833584	1.0469990000001417	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5200.880583	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5200.882083	1.0060079999993832	states											"   state_name
+id           
+9      cpoke1"
+5201.888091	0.2009990000005928	states											"        state_name
+id                
+12  temp_violation"
+5202.08909	1.1785009999994145	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5203.267591	0.001495999999860942	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5203.269087	1.782006000000365	states											"   state_name
+id           
+9      cpoke1"
+5205.051093	0.20099000000027445	states											"        state_name
+id                
+12  temp_violation"
+5205.252083	5.411499999999251	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5210.663583	0.001502000000073167	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5210.665085	0.07149800000024698	states											"   state_name
+id           
+9      cpoke1"
+5210.736583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5210.937583	4.5	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5215.437583	0.0015030000004117028	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5215.439086	0.5714969999999084	states											"   state_name
+id           
+9      cpoke1"
+5216.010583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5216.211583	0.4844999999995707	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5216.696083	0.0015030000004117028	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5216.697586	0.12799699999959557	states											"   state_name
+id           
+9      cpoke1"
+5216.825583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5217.026583	1.0119999999997162	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5218.038583	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5218.040083	0.2255009999998947	states											"   state_name
+id           
+9      cpoke1"
+5218.265584	0.2009990000005928	states											"        state_name
+id                
+12  temp_violation"
+5218.466583	1.4429999999993015	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5219.909583	0.0015080000002853922	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5219.911091	1.742992000000413	states											"   state_name
+id           
+9      cpoke1"
+5221.654083	0.20100399999955698	states											"        state_name
+id                
+12  temp_violation"
+5221.855087	1.0084999999999127	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5222.863587	0.0015119999998205458	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5222.865099	1.6310000000003129	states											"   state_name
+id           
+9      cpoke1"
+5224.496099	0.20099000000027445	states											"        state_name
+id                
+12  temp_violation"
+5224.697089	10.080509999999776	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5234.777599	0.0014860000001135631	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5234.779085	2.000011000000086	states											"   state_name
+id           
+9      cpoke1"
+5236.779096	0.01098699999965902	states											"           state_name
+id                   
+13  center_2_side_gap"
+5236.790083	0.6355000000003201	states											"        state_name
+id                
+17  wait_for_spoke"
+5237.425583	0.0015079999993758975	states											"      state_name
+id              
+18  error_state1"
+5237.427091	3.000992000000224	states											"     state_name
+id             
+19  error_state"
+5240.428083	0.001006999999844993	states											"        state_name
+id                
+30  clean_up_state"
+5240.429587	5.7529960000001665	trials	0.0	0.0	1.0	2.0004939999998896	0.0	0.0	0.0	r	1.0	p	
+5240.429587	5.7529960000001665	states											"   state_name
+id           
+0     state_0"
+5240.429587	0.015996000000086497	states											"          state_name
+id                  
+1   sending_trialnum"
+5240.445583	0.009520000000520668	states											"           state_name
+id                   
+3   clean_sound_state"
+5240.455103	0.001479999999901338	states											"   state_name
+id           
+4         iti"
+5240.456583	0.23800000000028376	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5240.694583	0.0015059999996083206	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5240.696089	2.0004939999998896	states											"   state_name
+id           
+9      cpoke1"
+5242.696583	0.011500000000523869	states											"           state_name
+id                   
+13  center_2_side_gap"
+5242.708083	0.47149999999965075	states											"        state_name
+id                
+17  wait_for_spoke"
+5243.179583	0.001502000000073167	states											"      state_name
+id              
+18  error_state1"
+5243.181085	3.0005139999993844	states											"     state_name
+id             
+19  error_state"
+5246.181599	0.000984000000244123	states											"        state_name
+id                
+30  clean_up_state"
+5246.183091	13.099492000000282	trials	1.0	0.0	1.0	2.0	0.0	0.0	0.0	r	1.0	s	
+5246.183091	13.099492000000282	states											"   state_name
+id           
+0     state_0"
+5246.183091	0.01599900000019261	states											"          state_name
+id                  
+1   sending_trialnum"
+5246.19909	0.009492999999565654	states											"           state_name
+id                   
+3   clean_sound_state"
+5246.208583	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+5246.209583	4.589015999999901	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5250.798599	0.0014840000003459863	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5250.800083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5252.800083	0.011011999999936961	states											"           state_name
+id                   
+13  center_2_side_gap"
+5252.811095	0.4689879999996265	states											"        state_name
+id                
+17  wait_for_spoke"
+5253.280083	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5253.280583	2.0000159999999596	states											"   state_name
+id           
+24  hit_state"
+5255.280599	3.0004930000004606	states											"          state_name
+id                  
+29  soft_drink_state"
+5258.281092	1.0005069999997431	states											"   state_name
+id           
+26    warning"
+5259.281599	0.000984000000244123	states											"        state_name
+id                
+30  clean_up_state"
+5259.28309	7.945509000000129	trials	1.0	0.0	-1.0	2.0000060000002122	0.0	0.0	0.0	l	-1.0	 	
+5259.28309	7.945509000000129	states											"   state_name
+id           
+0     state_0"
+5259.28309	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5259.29909	0.009492999999565654	states											"           state_name
+id                   
+3   clean_sound_state"
+5259.308583	0.0015000000003055902	states											"   state_name
+id           
+4         iti"
+5259.310083	0.1444999999994252	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5259.454583	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5259.456083	2.0000060000002122	states											"   state_name
+id           
+9      cpoke1"
+5261.456089	0.011493999999402149	states											"           state_name
+id                   
+13  center_2_side_gap"
+5261.467583	0.9320160000006581	states											"        state_name
+id                
+17  wait_for_spoke"
+5262.399599	0.0004849999995713006	states											"     state_name
+id             
+22  left_reward"
+5262.400084	2.0000150000005306	states											"   state_name
+id           
+24  hit_state"
+5264.400099	1.8269889999992301	states											"          state_name
+id                  
+29  soft_drink_state"
+5266.227088	1.0004950000002282	states											"   state_name
+id           
+26    warning"
+5267.227583	0.0010160000001633307	states											"        state_name
+id                
+30  clean_up_state"
+5267.229093	20.717005999999856	trials	1.0	1.0	-1.0			0.0	0.0	l	-1.0	-	
+5267.229093	20.717005999999856	states											"   state_name
+id           
+0     state_0"
+5267.229093	0.016005000000404834	states											"          state_name
+id                  
+1   sending_trialnum"
+5267.245098	0.009484999999585852	states											"           state_name
+id                   
+3   clean_sound_state"
+5267.254583	0.001006000000415952	states											"   state_name
+id           
+4         iti"
+5267.255589	9.676009999999224	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5276.931599	0.0014920000003257883	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5276.933091	0.5554920000004131	states											"   state_name
+id           
+9      cpoke1"
+5277.488583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5277.689583	0.41049999999995634	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5278.100083	0.0015159999993556994	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5278.101599	0.38349100000050385	states											"   state_name
+id           
+9      cpoke1"
+5278.48509	0.2009989999996833	states											"        state_name
+id                
+12  temp_violation"
+5278.686089	1.326509999999871	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5280.012599	0.0014840000003459863	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5280.014083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5282.014083	0.011499999999614374	states											"           state_name
+id                   
+13  center_2_side_gap"
+5282.025583	0.47750600000017585	states											"        state_name
+id                
+17  wait_for_spoke"
+5282.503089	0.0004939999998896383	states											"     state_name
+id             
+22  left_reward"
+5282.503583	2.000500000000102	states											"   state_name
+id           
+24  hit_state"
+5284.504083	2.4400000000005093	states											"          state_name
+id                  
+29  soft_drink_state"
+5286.944083	1.001009999999951	states											"   state_name
+id           
+26    warning"
+5287.945093	0.0010059999995064572	states											"        state_name
+id                
+30  clean_up_state"
+5287.946599	14.046492000000399	trials	0.0	1.0	1.0			0.0	0.0	r	1.0	 	
+5287.946599	14.046492000000399	states											"   state_name
+id           
+0     state_0"
+5287.946599	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5287.962599	0.009483999999247317	states											"           state_name
+id                   
+3   clean_sound_state"
+5287.972083	0.0010030000003098394	states											"   state_name
+id           
+4         iti"
+5287.973086	0.9580040000000736	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5288.93109	0.0014929999997548293	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5288.932583	1.8130000000001019	states											"   state_name
+id           
+9      cpoke1"
+5290.745583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5290.946583	0.732506999999714	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5291.67909	0.001493000000664324	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5291.680583	0.20650799999930314	states											"   state_name
+id           
+9      cpoke1"
+5291.887091	0.20099200000004203	states											"        state_name
+id                
+12  temp_violation"
+5292.088083	4.298516000000745	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5296.386599	0.0014839999994364916	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5296.388083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5298.388083	0.011013000000275497	states											"           state_name
+id                   
+13  center_2_side_gap"
+5298.399096	0.5899950000002718	states											"        state_name
+id                
+17  wait_for_spoke"
+5298.989091	0.0014919999994162936	states											"      state_name
+id              
+18  error_state1"
+5298.990583	3.0015000000003056	states											"     state_name
+id             
+19  error_state"
+5301.992083	0.0010080000001835288	states											"        state_name
+id                
+30  clean_up_state"
+5301.993589	21.2054990000006	trials	0.0	1.0	1.0			0.0	0.0	r	1.0	o	
+5301.993589	21.2054990000006	states											"   state_name
+id           
+0     state_0"
+5301.993589	0.01599400000031892	states											"          state_name
+id                  
+1   sending_trialnum"
+5302.009583	0.009508999999525258	states											"           state_name
+id                   
+3   clean_sound_state"
+5302.019092	0.0014910000008967472	states											"   state_name
+id           
+4         iti"
+5302.020583	0.2014999999992142	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5302.222083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5302.223583	1.5889999999999418	states											"   state_name
+id           
+9      cpoke1"
+5303.812583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5304.013583	0.6510060000000522	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5304.664589	0.0015039999998407438	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5304.666093	0.4639900000001944	states											"   state_name
+id           
+9      cpoke1"
+5305.130083	0.2010069999996631	states											"        state_name
+id                
+12  temp_violation"
+5305.33109	4.855996000000232	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5310.187086	0.0014970000001994777	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5310.188583	0.24450700000033976	states											"   state_name
+id           
+9      cpoke1"
+5310.43309	0.20099299999947107	states											"        state_name
+id                
+12  temp_violation"
+5310.634083	6.1935160000002725	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5316.827599	0.0014919999994162936	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5316.829091	0.3499970000002577	states											"   state_name
+id           
+9      cpoke1"
+5317.179088	0.20099500000014814	states											"        state_name
+id                
+12  temp_violation"
+5317.380083	0.17900699999972858	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5317.55909	0.001493000000664324	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5317.560583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5319.560583	0.01099999999951251	states											"           state_name
+id                   
+13  center_2_side_gap"
+5319.571583	0.6235130000004574	states											"        state_name
+id                
+17  wait_for_spoke"
+5320.195096	0.001502999999502208	states											"      state_name
+id              
+18  error_state1"
+5320.196599	3.0014940000000934	states											"     state_name
+id             
+19  error_state"
+5323.198093	0.0009950000003300374	states											"        state_name
+id                
+30  clean_up_state"
+5323.199583	8.629502000000684	trials	1.0	0.0	1.0	2.0000159999999596	0.0	0.0	0.0	r	1.0	n	
+5323.199583	8.629502000000684	states											"   state_name
+id           
+0     state_0"
+5323.199583	0.01600200000029872	states											"          state_name
+id                  
+1   sending_trialnum"
+5323.215585	0.00950600000032864	states											"           state_name
+id                   
+3   clean_sound_state"
+5323.225091	0.0014929999997548293	states											"   state_name
+id           
+4         iti"
+5323.226584	0.14650600000004488	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5323.37309	0.0014929999997548293	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5323.374583	2.0000159999999596	states											"   state_name
+id           
+9      cpoke1"
+5325.374599	0.011500000000523869	states											"           state_name
+id                   
+13  center_2_side_gap"
+5325.386099	0.4399839999996402	states											"        state_name
+id                
+17  wait_for_spoke"
+5325.826083	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5325.826583	2.0	states											"   state_name
+id           
+24  hit_state"
+5327.826583	3.0005049999999756	states											"          state_name
+id                  
+29  soft_drink_state"
+5330.827088	1.00099500000033	states											"   state_name
+id           
+26    warning"
+5331.828083	0.0010019999999713036	states											"        state_name
+id                
+30  clean_up_state"
+5331.829583	20.025000000000546	trials	1.0	0.0	-1.0	2.000008999999409	0.0	0.0	0.0	l	-1.0	 	
+5331.829583	20.025000000000546	states											"   state_name
+id           
+0     state_0"
+5331.829583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5331.845583	0.009506999999757682	states											"           state_name
+id                   
+3   clean_sound_state"
+5331.85509	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+5331.85609	11.91149299999961	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5343.767583	0.0015030000004117028	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5343.769086	2.000008999999409	states											"   state_name
+id           
+9      cpoke1"
+5345.769095	0.011488000000099419	states											"           state_name
+id                   
+13  center_2_side_gap"
+5345.780583	0.40350000000034925	states											"        state_name
+id                
+17  wait_for_spoke"
+5346.184083	0.0005000000001018634	states											"     state_name
+id             
+22  left_reward"
+5346.184583	2.0005059999994046	states											"   state_name
+id           
+24  hit_state"
+5348.185089	2.6675100000002203	states											"          state_name
+id                  
+29  soft_drink_state"
+5350.852599	1.0009840000002441	states											"   state_name
+id           
+26    warning"
+5351.853583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5351.855091	15.891998999999487	trials	0.0	0.0	1.0	2.0004790000002686	0.0	0.0	0.0	r	1.0	r	
+5351.855091	15.891998999999487	states											"   state_name
+id           
+0     state_0"
+5351.855091	0.016006999999262916	states											"          state_name
+id                  
+1   sending_trialnum"
+5351.871098	0.009485000000495347	states											"           state_name
+id                   
+3   clean_sound_state"
+5351.880583	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+5351.881583	10.326000000000022	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5362.207583	0.0015209999992293888	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5362.209104	2.0004790000002686	states											"   state_name
+id           
+9      cpoke1"
+5364.209583	0.011507000000165135	states											"           state_name
+id                   
+13  center_2_side_gap"
+5364.22109	0.5224930000003951	states											"        state_name
+id                
+17  wait_for_spoke"
+5364.743583	0.0015039999998407438	states											"      state_name
+id              
+18  error_state1"
+5364.745087	3.000995999999759	states											"     state_name
+id             
+19  error_state"
+5367.746083	0.001006999999844993	states											"        state_name
+id                
+30  clean_up_state"
+5367.747583	14.265999999999622	trials	1.0	1.0	2.0			0.0	0.0	r	2.0	i	
+5367.747583	14.265999999999622	states											"   state_name
+id           
+0     state_0"
+5367.747583	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5367.763583	0.009511999999631371	states											"           state_name
+id                   
+3   clean_sound_state"
+5367.773095	0.0014880000007906347	states											"   state_name
+id           
+4         iti"
+5367.774583	0.33699999999953434	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5368.111583	0.0015089999997144332	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5368.113092	1.8939980000004653	states											"   state_name
+id           
+9      cpoke1"
+5370.00709	0.20099300000038056	states											"        state_name
+id                
+12  temp_violation"
+5370.208083	0.31849999999940337	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5370.526583	0.0015060000005178154	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5370.528089	1.8659939999997732	states											"   state_name
+id           
+9      cpoke1"
+5372.394083	0.20101299999987532	states											"        state_name
+id                
+12  temp_violation"
+5372.595096	1.0789930000000822	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5373.674089	0.001494000000093365	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5373.675583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5375.675583	0.011507000000165135	states											"           state_name
+id                   
+13  center_2_side_gap"
+5375.68709	0.3230039999998553	states											"        state_name
+id                
+17  wait_for_spoke"
+5376.010094	0.0004890000000159489	states											"      state_name
+id              
+23  right_reward"
+5376.010583	2.0005019999998694	states											"   state_name
+id           
+24  hit_state"
+5378.011085	3.000514000000294	states											"          state_name
+id                  
+29  soft_drink_state"
+5381.011599	1.0009839999993346	states											"   state_name
+id           
+26    warning"
+5382.012583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5382.014083	12.521499999999833	trials	1.0	1.0	2.0			0.0	0.0	r	2.0	g	
+5382.014083	12.521499999999833	states											"   state_name
+id           
+0     state_0"
+5382.014083	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5382.030083	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5382.039583	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+5382.040583	1.3239999999996144	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5383.364583	0.0015060000005178154	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5383.366089	1.803993999999875	states											"   state_name
+id           
+9      cpoke1"
+5385.170083	0.2010099999997692	states											"        state_name
+id                
+12  temp_violation"
+5385.371093	0.0015060000005178154	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5385.372599	0.22249099999953614	states											"   state_name
+id           
+9      cpoke1"
+5385.59509	0.2010019999997894	states											"        state_name
+id                
+12  temp_violation"
+5385.796092	0.26149100000020553	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5386.057583	0.0015069999999468564	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5386.05909	2.0004930000004606	states											"   state_name
+id           
+9      cpoke1"
+5388.059583	0.01099999999951251	states											"           state_name
+id                   
+13  center_2_side_gap"
+5388.070583	0.46250700000018696	states											"        state_name
+id                
+17  wait_for_spoke"
+5388.53309	0.0004930000004605972	states											"      state_name
+id              
+23  right_reward"
+5388.533583	2.0000159999999596	states											"   state_name
+id           
+24  hit_state"
+5390.533599	3.0004839999992328	states											"          state_name
+id                  
+29  soft_drink_state"
+5393.534083	1.0005160000000615	states											"   state_name
+id           
+26    warning"
+5394.534599	0.000984000000244123	states											"        state_name
+id                
+30  clean_up_state"
+5394.536083	8.861007000000427	trials	1.0	0.0	1.0	2.0000150000005306	0.0	0.0	0.0	r	1.0	 	
+5394.536083	8.861007000000427	states											"   state_name
+id           
+0     state_0"
+5394.536083	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5394.552083	0.00951600000007602	states											"           state_name
+id                   
+3   clean_sound_state"
+5394.561599	0.001487000000452099	states											"   state_name
+id           
+4         iti"
+5394.563086	0.37549699999999575	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5394.938583	0.0015009999997346313	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5394.940084	2.0000150000005306	states											"   state_name
+id           
+9      cpoke1"
+5396.940099	0.010990999999194173	states											"           state_name
+id                   
+13  center_2_side_gap"
+5396.95109	0.7934930000001259	states											"        state_name
+id                
+17  wait_for_spoke"
+5397.744583	0.0005090000004202011	states											"      state_name
+id              
+23  right_reward"
+5397.745092	2.0004909999997835	states											"   state_name
+id           
+24  hit_state"
+5399.745583	2.649507000000085	states											"          state_name
+id                  
+29  soft_drink_state"
+5402.39509	1.000992999999653	states											"   state_name
+id           
+26    warning"
+5403.396083	0.0010070000007544877	states											"        state_name
+id                
+30  clean_up_state"
+5403.397599	15.741501999999855	trials	0.0	0.0	1.0	2.0004900000003545	0.0	0.0	0.0	r	1.0	b	
+5403.397599	15.741501999999855	states											"   state_name
+id           
+0     state_0"
+5403.397599	0.015985000000000582	states											"          state_name
+id                  
+1   sending_trialnum"
+5403.413584	0.009506999999757682	states											"           state_name
+id                   
+3   clean_sound_state"
+5403.423091	0.0015080000002853922	states											"   state_name
+id           
+4         iti"
+5403.424599	9.854494000000159	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5413.279093	0.0015059999996083206	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5413.280599	2.0004900000003545	states											"   state_name
+id           
+9      cpoke1"
+5415.281089	0.011494000000311644	states											"           state_name
+id                   
+13  center_2_side_gap"
+5415.292583	0.8429999999998472	states											"        state_name
+id                
+17  wait_for_spoke"
+5416.135583	0.0015119999998205458	states											"      state_name
+id              
+18  error_state1"
+5416.137095	3.0009879999997793	states											"     state_name
+id             
+19  error_state"
+5419.138083	0.0010179999999309075	states											"        state_name
+id                
+30  clean_up_state"
+5419.139583	5.90099999999984	trials	0.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	r	
+5419.139583	5.90099999999984	states											"   state_name
+id           
+0     state_0"
+5419.139583	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5419.155583	0.009507000000667176	states											"           state_name
+id                   
+3   clean_sound_state"
+5419.16509	0.0015089999997144332	states											"   state_name
+id           
+4         iti"
+5419.166599	0.06148399999983667	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5419.228083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5419.229583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5421.229583	0.011504000000059023	states											"           state_name
+id                   
+13  center_2_side_gap"
+5421.241087	0.79549599999973	states											"        state_name
+id                
+17  wait_for_spoke"
+5422.036583	0.0015000000003055902	states											"      state_name
+id              
+18  error_state1"
+5422.038083	3.0015159999993557	states											"     state_name
+id             
+19  error_state"
+5425.039599	0.000984000000244123	states											"        state_name
+id                
+30  clean_up_state"
+5425.041087	20.18049599999995	trials	0.0	1.0	2.0			0.0	0.0	r	2.0	o	
+5425.041087	20.18049599999995	states											"   state_name
+id           
+0     state_0"
+5425.041087	0.0160040000000663	states											"          state_name
+id                  
+1   sending_trialnum"
+5425.057091	0.009492000000136613	states											"           state_name
+id                   
+3   clean_sound_state"
+5425.066583	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+5425.067583	0.1959999999999127	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5425.263583	0.0015069999999468564	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5425.26509	1.9409930000001623	states											"   state_name
+id           
+9      cpoke1"
+5427.206083	0.2010069999996631	states											"        state_name
+id                
+12  temp_violation"
+5427.40709	0.9329930000003515	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5428.340083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5428.341583	1.9055069999994885	states											"   state_name
+id           
+9      cpoke1"
+5430.24709	0.2009939999998096	states											"        state_name
+id                
+12  temp_violation"
+5430.448084	8.727999000000636	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5439.176083	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5439.177583	0.18050600000060513	states											"   state_name
+id           
+9      cpoke1"
+5439.358089	0.2010019999997894	states											"        state_name
+id                
+12  temp_violation"
+5439.559091	0.014508000000205357	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5439.573599	0.0014860000001135631	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5439.575085	2.0000049999998737	states											"   state_name
+id           
+9      cpoke1"
+5441.57509	0.011008999999830849	states											"           state_name
+id                   
+13  center_2_side_gap"
+5441.586099	0.6319899999998597	states											"        state_name
+id                
+17  wait_for_spoke"
+5442.218089	0.001494000000093365	states											"      state_name
+id              
+18  error_state1"
+5442.219583	3.0010059999995065	states											"     state_name
+id             
+19  error_state"
+5445.220589	0.0009939999999915017	states											"        state_name
+id                
+30  clean_up_state"
+5445.222084	8.146515000000363	trials	1.0	0.0	-2.0	2.0004839999992328	0.0	0.0	0.0	l	-2.0	d	
+5445.222084	8.146515000000363	states											"   state_name
+id           
+0     state_0"
+5445.222084	0.016005000000404834	states											"          state_name
+id                  
+1   sending_trialnum"
+5445.238089	0.009497000000010303	states											"           state_name
+id                   
+3   clean_sound_state"
+5445.247586	0.0015019999991636723	states											"   state_name
+id           
+4         iti"
+5445.249088	0.6494950000005701	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5445.898583	0.001516000000265194	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5445.900099	2.0004839999992328	states											"   state_name
+id           
+9      cpoke1"
+5447.900583	0.011500000000523869	states											"           state_name
+id                   
+13  center_2_side_gap"
+5447.912083	0.8575000000000728	states											"        state_name
+id                
+17  wait_for_spoke"
+5448.769583	0.0005000000001018634	states											"     state_name
+id             
+22  left_reward"
+5448.770083	2.000500000000102	states											"   state_name
+id           
+24  hit_state"
+5450.770583	1.596506999999292	states											"          state_name
+id                  
+29  soft_drink_state"
+5452.36709	1.0004930000004606	states											"   state_name
+id           
+26    warning"
+5453.367583	0.0010160000001633307	states											"        state_name
+id                
+30  clean_up_state"
+5453.3691	9.934483	trials	1.0	0.0	1.0	2.0	0.0	0.0	0.0	r	1.0	y	
+5453.3691	9.934483	states											"   state_name
+id           
+0     state_0"
+5453.3691	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5453.3851	0.00949899999977788	states											"           state_name
+id                   
+3   clean_sound_state"
+5453.394599	0.0014839999994364916	states											"   state_name
+id           
+4         iti"
+5453.396083	1.4890070000001288	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5454.88509	0.001493000000664324	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5454.886583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5456.886583	0.011015999999472115	states											"           state_name
+id                   
+13  center_2_side_gap"
+5456.897599	0.4029900000005	states											"        state_name
+id                
+17  wait_for_spoke"
+5457.300589	0.0005009999995309045	states											"      state_name
+id              
+23  right_reward"
+5457.30109	2.0000129999998535	states											"   state_name
+id           
+24  hit_state"
+5459.301103	3.000480000000607	states											"          state_name
+id                  
+29  soft_drink_state"
+5462.301583	1.0009999999992942	states											"   state_name
+id           
+26    warning"
+5463.302583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5463.304084	8.094498999999814	trials	0.0	1.0	2.0			0.0	0.0	r	2.0	r	
+5463.304084	8.094498999999814	states											"   state_name
+id           
+0     state_0"
+5463.304084	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5463.320084	0.00949899999977788	states											"           state_name
+id                   
+3   clean_sound_state"
+5463.329583	0.0015110000003915047	states											"   state_name
+id           
+4         iti"
+5463.331094	0.9415049999997791	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5464.272599	0.0014849999997750274	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5464.274084	0.22249900000042544	states											"   state_name
+id           
+9      cpoke1"
+5464.496583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5464.697583	0.8109999999996944	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5465.508583	0.001516000000265194	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5465.510099	2.0004840000001423	states											"   state_name
+id           
+9      cpoke1"
+5467.510583	0.011499999999614374	states											"           state_name
+id                   
+13  center_2_side_gap"
+5467.522083	0.8725000000004002	states											"        state_name
+id                
+17  wait_for_spoke"
+5468.394583	0.0015159999993556994	states											"      state_name
+id              
+18  error_state1"
+5468.396099	3.001484000000346	states											"     state_name
+id             
+19  error_state"
+5471.397583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5471.399096	7.960986999999477	trials	1.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	i	
+5471.399096	7.960986999999477	states											"   state_name
+id           
+0     state_0"
+5471.399096	0.016000999999960186	states											"          state_name
+id                  
+1   sending_trialnum"
+5471.415097	0.009485999999924388	states											"           state_name
+id                   
+3   clean_sound_state"
+5471.424583	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+5471.425583	0.05551099999956932	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5471.481094	0.0014890000002196757	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5471.482583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5473.482583	0.011499999999614374	states											"           state_name
+id                   
+13  center_2_side_gap"
+5473.494083	0.37550000000010186	states											"        state_name
+id                
+17  wait_for_spoke"
+5473.869583	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5473.870083	2.0000060000002122	states											"   state_name
+id           
+24  hit_state"
+5475.870089	2.4879940000000715	states											"          state_name
+id                  
+29  soft_drink_state"
+5478.358083	1.0010039999997389	states											"   state_name
+id           
+26    warning"
+5479.359087	0.0009959999997590785	states											"        state_name
+id                
+30  clean_up_state"
+5479.360583	25.244016000000556	trials	1.0	0.0	2.0	2.000486999999339	0.0	0.0	0.0	r	2.0	g	
+5479.360583	25.244016000000556	states											"   state_name
+id           
+0     state_0"
+5479.360583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5479.376583	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5479.386083	0.001006999999844993	states											"   state_name
+id           
+4         iti"
+5479.38709	16.65049799999997	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5496.037588	0.0015080000002853922	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5496.039096	2.000486999999339	states											"   state_name
+id           
+9      cpoke1"
+5498.039583	0.011505000000397558	states											"           state_name
+id                   
+13  center_2_side_gap"
+5498.051088	0.5500019999999495	states											"        state_name
+id                
+17  wait_for_spoke"
+5498.60109	0.0005089999995107064	states											"      state_name
+id              
+23  right_reward"
+5498.601599	2.0004840000001423	states											"   state_name
+id           
+24  hit_state"
+5500.602083	3.0005160000000615	states											"          state_name
+id                  
+29  soft_drink_state"
+5503.602599	1.0009840000002441	states											"   state_name
+id           
+26    warning"
+5504.603583	0.0010160000001633307	states											"        state_name
+id                
+30  clean_up_state"
+5504.60509	13.608492999999726	trials	1.0	1.0	1.0			0.0	0.0	r	1.0	2	
+5504.60509	13.608492999999726	states											"   state_name
+id           
+0     state_0"
+5504.60509	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5504.62109	0.00949300000047515	states											"           state_name
+id                   
+3   clean_sound_state"
+5504.630583	0.0010030000003098394	states											"   state_name
+id           
+4         iti"
+5504.631586	0.10650299999997515	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5504.738089	0.0014939999991838704	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5504.739583	1.7840000000005602	states											"   state_name
+id           
+9      cpoke1"
+5506.523583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5506.724583	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5506.726083	0.14900699999998324	states											"   state_name
+id           
+9      cpoke1"
+5506.87509	0.20099300000038056	states											"        state_name
+id                
+12  temp_violation"
+5507.076083	0.6405160000003889	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5507.716599	0.0014839999994364916	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5507.718083	0.25050000000010186	states											"   state_name
+id           
+9      cpoke1"
+5507.968583	0.20100600000023405	states											"        state_name
+id                
+12  temp_violation"
+5508.169589	0.012009999999463616	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5508.181599	0.0014920000003257883	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5508.183091	0.2444919999998092	states											"   state_name
+id           
+9      cpoke1"
+5508.427583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5508.628583	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5508.630083	0.05050000000028376	states											"   state_name
+id           
+9      cpoke1"
+5508.680583	0.2010019999997894	states											"        state_name
+id                
+12  temp_violation"
+5508.881585	0.7804980000000796	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5509.662083	0.001502000000073167	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5509.663585	2.000497999999425	states											"   state_name
+id           
+9      cpoke1"
+5511.664083	0.011516000000483473	states											"           state_name
+id                   
+13  center_2_side_gap"
+5511.675599	0.5349900000001071	states											"        state_name
+id                
+17  wait_for_spoke"
+5512.210589	0.0005009999995309045	states											"      state_name
+id              
+23  right_reward"
+5512.21109	2.0000049999998737	states											"   state_name
+id           
+24  hit_state"
+5514.211095	3.000488000000587	states											"          state_name
+id                  
+29  soft_drink_state"
+5517.211583	1.0010000000002037	states											"   state_name
+id           
+26    warning"
+5518.212583	0.0009999999992942321	states											"        state_name
+id                
+30  clean_up_state"
+5518.214083	8.672005999999783	trials	1.0	0.0	1.0	2.000483000000713	0.0	0.0	0.0	r	1.0	0	
+5518.214083	8.672005999999783	states											"   state_name
+id           
+0     state_0"
+5518.214083	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5518.230083	0.00949999999920692	states											"           state_name
+id                   
+3   clean_sound_state"
+5518.239583	0.0015060000005178154	states											"   state_name
+id           
+4         iti"
+5518.241089	0.10249500000008993	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5518.343584	0.0015159999993556994	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5518.3451	2.000483000000713	states											"   state_name
+id           
+9      cpoke1"
+5520.345583	0.011502999999720487	states											"           state_name
+id                   
+13  center_2_side_gap"
+5520.357086	0.526002999999946	states											"        state_name
+id                
+17  wait_for_spoke"
+5520.883089	0.0004939999998896383	states											"      state_name
+id              
+23  right_reward"
+5520.883583	2.0000019999997676	states											"   state_name
+id           
+24  hit_state"
+5522.883585	3.0004980000003343	states											"          state_name
+id                  
+29  soft_drink_state"
+5525.884083	1.0010019999999713	states											"   state_name
+id           
+26    warning"
+5526.885085	0.0010039999997388804	states											"        state_name
+id                
+30  clean_up_state"
+5526.886599	12.4789839999994	trials	1.0	0.0	1.0	2.0	0.0	0.0	0.0	r	1.0	.	
+5526.886599	12.4789839999994	states											"   state_name
+id           
+0     state_0"
+5526.886599	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5526.902599	0.009484000000156811	states											"           state_name
+id                   
+3   clean_sound_state"
+5526.912083	0.001006999999844993	states											"   state_name
+id           
+4         iti"
+5526.91309	3.9509930000003806	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5530.864083	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5530.865583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5532.865583	0.0115059999998266	states											"           state_name
+id                   
+13  center_2_side_gap"
+5532.877089	0.4854940000004717	states											"        state_name
+id                
+17  wait_for_spoke"
+5533.362583	0.0005049999999755528	states											"      state_name
+id              
+23  right_reward"
+5533.363088	2.0000049999998737	states											"   state_name
+id           
+24  hit_state"
+5535.363093	3.0004900000003545	states											"          state_name
+id                  
+29  soft_drink_state"
+5538.363583	1.0009999999992942	states											"   state_name
+id           
+26    warning"
+5539.364583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5539.366083	7.110505999999987	trials	1.0	0.0	-2.0	2.0000040000004446	0.0	0.0	0.0	l	-2.0	P	
+5539.366083	7.110505999999987	states											"   state_name
+id           
+0     state_0"
+5539.366083	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5539.382083	0.00949999999920692	states											"           state_name
+id                   
+3   clean_sound_state"
+5539.391583	0.0015069999999468564	states											"   state_name
+id           
+4         iti"
+5539.39309	0.2864930000005188	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5539.679583	0.001502999999502208	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5539.681086	2.0000040000004446	states											"   state_name
+id           
+9      cpoke1"
+5541.68109	0.01099900000008347	states											"           state_name
+id                   
+13  center_2_side_gap"
+5541.692089	0.7814939999998387	states											"        state_name
+id                
+17  wait_for_spoke"
+5542.473583	0.0005000000001018634	states											"     state_name
+id             
+22  left_reward"
+5542.474083	2.000506000000314	states											"   state_name
+id           
+24  hit_state"
+5544.474589	1.000500999999531	states											"          state_name
+id                  
+29  soft_drink_state"
+5545.47509	1.0004939999998896	states											"   state_name
+id           
+26    warning"
+5546.475584	0.0010050000000774162	states											"        state_name
+id                
+30  clean_up_state"
+5546.47709	7.313492999999653	trials	0.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	r	
+5546.47709	7.313492999999653	states											"   state_name
+id           
+0     state_0"
+5546.47709	0.01599499999974796	states											"          state_name
+id                  
+1   sending_trialnum"
+5546.493085	0.009498000000348839	states											"           state_name
+id                   
+3   clean_sound_state"
+5546.502583	0.0009999999992942321	states											"   state_name
+id           
+4         iti"
+5546.503583	1.0355079999999361	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5547.539091	0.0014920000003257883	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5547.540583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5549.540583	0.011000000000422006	states											"           state_name
+id                   
+13  center_2_side_gap"
+5549.551583	1.2355079999997542	states											"        state_name
+id                
+17  wait_for_spoke"
+5550.787091	0.0014919999994162936	states											"      state_name
+id              
+18  error_state1"
+5550.788583	3.0010000000002037	states											"     state_name
+id             
+19  error_state"
+5553.789583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5553.791088	7.804995000000417	trials	1.0	0.0	-2.0	2.0	0.0	0.0	0.0	l	-2.0	i	
+5553.791088	7.804995000000417	states											"   state_name
+id           
+0     state_0"
+5553.791088	0.016010000000278524	states											"          state_name
+id                  
+1   sending_trialnum"
+5553.807098	0.009490999999798078	states											"           state_name
+id                   
+3   clean_sound_state"
+5553.816589	0.001494000000093365	states											"   state_name
+id           
+4         iti"
+5553.818083	0.03201699999954144	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5553.8501	0.0014830000000074506	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5553.851583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5555.851583	0.011506000000736094	states											"           state_name
+id                   
+13  center_2_side_gap"
+5555.863089	0.6859989999993559	states											"        state_name
+id                
+17  wait_for_spoke"
+5556.549088	0.000495000000228174	states											"     state_name
+id             
+22  left_reward"
+5556.549583	2.0000159999999596	states											"   state_name
+id           
+24  hit_state"
+5558.549599	2.044984000000113	states											"          state_name
+id                  
+29  soft_drink_state"
+5560.594583	1.0005080000000817	states											"   state_name
+id           
+26    warning"
+5561.595091	0.0009920000002239249	states											"        state_name
+id                
+30  clean_up_state"
+5561.596583	6.496504000000641	trials	0.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	n	
+5561.596583	6.496504000000641	states											"   state_name
+id           
+0     state_0"
+5561.596583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5561.612583	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5561.622083	0.0010050000000774162	states											"   state_name
+id           
+4         iti"
+5561.623088	0.7515009999997346	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5562.374589	0.001494000000093365	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5562.376083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5564.376083	0.011499999999614374	states											"           state_name
+id                   
+13  center_2_side_gap"
+5564.387583	0.7020000000002256	states											"        state_name
+id                
+17  wait_for_spoke"
+5565.089583	0.0015069999999468564	states											"      state_name
+id              
+18  error_state1"
+5565.09109	3.001009000000522	states											"     state_name
+id             
+19  error_state"
+5568.092099	0.0009879999997792765	states											"        state_name
+id                
+30  clean_up_state"
+5568.093583	14.350500000000466	trials	1.0	1.0	1.0			0.0	0.0	r	1.0	c	
+5568.093583	14.350500000000466	states											"   state_name
+id           
+0     state_0"
+5568.093583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5568.109583	0.009504999999990105	states											"           state_name
+id                   
+3   clean_sound_state"
+5568.119088	0.0014949999995224061	states											"   state_name
+id           
+4         iti"
+5568.120583	0.2955000000001746	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5568.416083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5568.417583	0.4275079999997615	states											"   state_name
+id           
+9      cpoke1"
+5568.845091	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5569.046091	0.0014919999994162936	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5569.047583	1.6350060000004305	states											"   state_name
+id           
+9      cpoke1"
+5570.682589	0.2010099999997692	states											"        state_name
+id                
+12  temp_violation"
+5570.883599	0.001494000000093365	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5570.885093	0.0014900000005582115	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5570.886583	0.36199999999917054	states											"   state_name
+id           
+9      cpoke1"
+5571.248583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5571.449583	3.5395100000005186	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5574.989093	0.0015059999996083206	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5574.990599	2.000489000000016	states											"   state_name
+id           
+9      cpoke1"
+5576.991088	0.010995000000548316	states											"           state_name
+id                   
+13  center_2_side_gap"
+5577.002083	0.47500899999977264	states											"        state_name
+id                
+17  wait_for_spoke"
+5577.477092	0.0004909999997835257	states											"      state_name
+id              
+23  right_reward"
+5577.477583	2.000500000000102	states											"   state_name
+id           
+24  hit_state"
+5579.478083	1.9645000000000437	states											"          state_name
+id                  
+29  soft_drink_state"
+5581.442583	1.0005080000000817	states											"   state_name
+id           
+26    warning"
+5582.443091	0.0009920000002239249	states											"        state_name
+id                
+30  clean_up_state"
+5582.444599	7.975484999999935	trials	1.0	0.0	1.0	2.0	0.0	0.0	0.0	r	1.0	e	
+5582.444599	7.975484999999935	states											"   state_name
+id           
+0     state_0"
+5582.444599	0.01598999999987427	states											"          state_name
+id                  
+1   sending_trialnum"
+5582.460589	0.009509999999863794	states											"           state_name
+id                   
+3   clean_sound_state"
+5582.470099	0.0014839999994364916	states											"   state_name
+id           
+4         iti"
+5582.471583	0.025000000000545697	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5582.496583	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5582.498083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5584.498083	0.011499999999614374	states											"           state_name
+id                   
+13  center_2_side_gap"
+5584.509583	0.4420159999999669	states											"        state_name
+id                
+17  wait_for_spoke"
+5584.951599	0.0004939999998896383	states											"      state_name
+id              
+23  right_reward"
+5584.952093	2.0000060000002122	states											"   state_name
+id           
+24  hit_state"
+5586.952099	2.4660000000003492	states											"          state_name
+id                  
+29  soft_drink_state"
+5589.418099	1.0009999999992942	states											"   state_name
+id           
+26    warning"
+5590.419099	0.0009850000005826587	states											"        state_name
+id                
+30  clean_up_state"
+5590.420583	18.47151599999961	trials	1.0	1.0	1.0			0.0	0.0	r	1.0	t	
+5590.420583	18.47151599999961	states											"   state_name
+id           
+0     state_0"
+5590.420583	0.016015999999581254	states											"          state_name
+id                  
+1   sending_trialnum"
+5590.436599	0.009484000000156811	states											"           state_name
+id                   
+3   clean_sound_state"
+5590.446083	0.0010099999999511056	states											"   state_name
+id           
+4         iti"
+5590.447093	1.4384900000004563	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5591.885583	0.0015069999999468564	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5591.88709	0.35399599999982456	states											"   state_name
+id           
+9      cpoke1"
+5592.241086	0.20099699999991572	states											"        state_name
+id                
+12  temp_violation"
+5592.442083	0.04650000000037835	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5592.488583	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5592.490083	1.0960060000006706	states											"   state_name
+id           
+9      cpoke1"
+5593.586089	0.20100099999945087	states											"        state_name
+id                
+12  temp_violation"
+5593.78709	0.0014929999997548293	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5593.788583	1.3480010000002949	states											"   state_name
+id           
+9      cpoke1"
+5595.136584	0.2009990000005928	states											"        state_name
+id                
+12  temp_violation"
+5595.337583	0.2819999999992433	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5595.619583	0.0015069999999468564	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5595.62109	0.8919970000006288	states											"   state_name
+id           
+9      cpoke1"
+5596.513087	0.20099599999957718	states											"        state_name
+id                
+12  temp_violation"
+5596.714083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5596.715583	0.017507999999907042	states											"   state_name
+id           
+9      cpoke1"
+5596.733091	0.20100800000000163	states											"        state_name
+id                
+12  temp_violation"
+5596.934099	0.5010009999996328	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5597.4351	0.0014830000000074506	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5597.436583	1.3060000000004948	states											"   state_name
+id           
+9      cpoke1"
+5598.742583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5598.943583	1.475507000000107	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5600.41909	0.0014929999997548293	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5600.420583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5602.420583	0.011499999999614374	states											"           state_name
+id                   
+13  center_2_side_gap"
+5602.432083	0.45650000000023283	states											"        state_name
+id                
+17  wait_for_spoke"
+5602.888583	0.0005129999999553547	states											"      state_name
+id              
+23  right_reward"
+5602.889096	2.0004870000002484	states											"   state_name
+id           
+24  hit_state"
+5604.889583	3.000500000000102	states											"          state_name
+id                  
+29  soft_drink_state"
+5607.890083	1.0010109999993801	states											"   state_name
+id           
+26    warning"
+5608.891094	0.0010050000000774162	states											"        state_name
+id                
+30  clean_up_state"
+5608.892599	6.0479999999997744	trials	0.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	o	
+5608.892599	6.0479999999997744	states											"   state_name
+id           
+0     state_0"
+5608.892599	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5608.908599	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5608.918099	0.0014839999994364916	states											"   state_name
+id           
+4         iti"
+5608.919583	0.04051700000036362	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5608.9601	0.0014830000000074506	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5608.961583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5610.961583	0.01099999999951251	states											"           state_name
+id                   
+13  center_2_side_gap"
+5610.972583	0.9639999999999418	states											"        state_name
+id                
+17  wait_for_spoke"
+5611.936583	0.0015000000003055902	states											"      state_name
+id              
+18  error_state1"
+5611.938083	3.0015000000003056	states											"     state_name
+id             
+19  error_state"
+5614.939583	0.001015999999253836	states											"        state_name
+id                
+30  clean_up_state"
+5614.941099	8.740984000000026	trials	1.0	0.0	2.0	2.0004840000001423	0.0	0.0	0.0	r	2.0	n	
+5614.941099	8.740984000000026	states											"   state_name
+id           
+0     state_0"
+5614.941099	0.015992000000551343	states											"          state_name
+id                  
+1   sending_trialnum"
+5614.957091	0.009508000000096217	states											"           state_name
+id                   
+3   clean_sound_state"
+5614.966599	0.0014839999994364916	states											"   state_name
+id           
+4         iti"
+5614.968083	0.38400000000001455	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5615.352083	0.001516000000265194	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5615.353599	2.0004840000001423	states											"   state_name
+id           
+9      cpoke1"
+5617.354083	0.011499999999614374	states											"           state_name
+id                   
+13  center_2_side_gap"
+5617.365583	0.5420000000003711	states											"        state_name
+id                
+17  wait_for_spoke"
+5617.907583	0.0005009999995309045	states											"      state_name
+id              
+23  right_reward"
+5617.908084	2.0005049999999756	states											"   state_name
+id           
+24  hit_state"
+5619.908589	2.7719999999999345	states											"          state_name
+id                  
+29  soft_drink_state"
+5622.680589	1.0005040000005465	states											"   state_name
+id           
+26    warning"
+5623.681093	0.0009899999995468534	states											"        state_name
+id                
+30  clean_up_state"
+5623.682583	16.084504999999808	trials	1.0	1.0	2.0			0.0	0.0	r	2.0	.	
+5623.682583	16.084504999999808	states											"   state_name
+id           
+0     state_0"
+5623.682583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5623.698583	0.009508000000096217	states											"           state_name
+id                   
+3   clean_sound_state"
+5623.708091	0.0010009999996327679	states											"   state_name
+id           
+4         iti"
+5623.709092	1.1514969999998357	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5624.860589	0.001494000000093365	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5624.862083	1.9340000000001965	states											"   state_name
+id           
+9      cpoke1"
+5626.796083	0.20101699999941047	states											"        state_name
+id                
+12  temp_violation"
+5626.9971	0.19099200000073324	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5627.188092	0.0014909999999872525	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5627.189583	0.49249999999938154	states											"   state_name
+id           
+9      cpoke1"
+5627.682083	0.2010070000005726	states											"        state_name
+id                
+12  temp_violation"
+5627.88309	3.368993000000046	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5631.252083	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5631.253583	2.0000040000004446	states											"   state_name
+id           
+9      cpoke1"
+5633.253587	0.011502999999720487	states											"           state_name
+id                   
+13  center_2_side_gap"
+5633.26509	0.4990090000001146	states											"        state_name
+id                
+17  wait_for_spoke"
+5633.764099	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5633.764599	2.000495000000228	states											"   state_name
+id           
+24  hit_state"
+5635.765094	3.000489000000016	states											"          state_name
+id                  
+29  soft_drink_state"
+5638.765583	1.0005000000001019	states											"   state_name
+id           
+26    warning"
+5639.766083	0.0010049999991679215	states											"        state_name
+id                
+30  clean_up_state"
+5639.767583	7.260000000000218	trials	1.0	0.0	-2.0	2.000495000000228	0.0	0.0	0.0	l	-2.0	E	
+5639.767583	7.260000000000218	states											"   state_name
+id           
+0     state_0"
+5639.767583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5639.783583	0.009511999999631371	states											"           state_name
+id                   
+3   clean_sound_state"
+5639.793095	0.0010039999997388804	states											"   state_name
+id           
+4         iti"
+5639.794099	0.10598400000071706	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5639.900083	0.001504999999269785	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5639.901588	2.000495000000228	states											"   state_name
+id           
+9      cpoke1"
+5641.902083	0.011007000000063272	states											"           state_name
+id                   
+13  center_2_side_gap"
+5641.91309	0.7834929999999076	states											"        state_name
+id                
+17  wait_for_spoke"
+5642.696583	0.0005090000004202011	states											"     state_name
+id             
+22  left_reward"
+5642.697092	2.0004909999997835	states											"   state_name
+id           
+24  hit_state"
+5644.697583	1.3279999999995198	states											"          state_name
+id                  
+29  soft_drink_state"
+5646.025583	1.0010000000002037	states											"   state_name
+id           
+26    warning"
+5647.026583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5647.028099	8.26548399999956	trials	1.0	0.0	1.0	2.0	0.0	0.0	0.0	r	1.0	D	
+5647.028099	8.26548399999956	states											"   state_name
+id           
+0     state_0"
+5647.028099	0.015983999999662046	states											"          state_name
+id                  
+1   sending_trialnum"
+5647.044083	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5647.053583	0.0015089999997144332	states											"   state_name
+id           
+4         iti"
+5647.055092	0.1409910000002128	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5647.196083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5647.197583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5649.197583	0.011512000000038825	states											"           state_name
+id                   
+13  center_2_side_gap"
+5649.209095	0.611493999999766	states											"        state_name
+id                
+17  wait_for_spoke"
+5649.820589	0.0005010000004403992	states											"      state_name
+id              
+23  right_reward"
+5649.82109	2.000492999999551	states											"   state_name
+id           
+24  hit_state"
+5651.821583	2.4705000000003565	states											"          state_name
+id                  
+29  soft_drink_state"
+5654.292083	1.0005160000000615	states											"   state_name
+id           
+26    warning"
+5655.292599	0.0009839999993346282	states											"        state_name
+id                
+30  clean_up_state"
+5655.294084	15.007002000000284	trials	1.0	1.0	-1.0			0.0	0.0	l	-1.0	U	
+5655.294084	15.007002000000284	states											"   state_name
+id           
+0     state_0"
+5655.294084	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5655.310084	0.009504999999990105	states											"           state_name
+id                   
+3   clean_sound_state"
+5655.319589	0.0015000000003055902	states											"   state_name
+id           
+4         iti"
+5655.321089	4.567000000000007	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5659.888089	0.001494000000093365	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5659.889583	1.6589999999996508	states											"   state_name
+id           
+9      cpoke1"
+5661.548583	0.20101599999998143	states											"        state_name
+id                
+12  temp_violation"
+5661.749599	0.7704840000005788	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5662.520083	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5662.521583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5664.521583	0.0115059999998266	states											"           state_name
+id                   
+13  center_2_side_gap"
+5664.533089	0.7290100000000166	states											"        state_name
+id                
+17  wait_for_spoke"
+5665.262099	0.0005000000001018634	states											"     state_name
+id             
+22  left_reward"
+5665.262599	2.000489000000016	states											"   state_name
+id           
+24  hit_state"
+5667.263088	2.0364950000002864	states											"          state_name
+id                  
+29  soft_drink_state"
+5669.299583	1.0005000000001019	states											"   state_name
+id           
+26    warning"
+5670.300083	0.0010030000003098394	states											"        state_name
+id                
+30  clean_up_state"
+5670.301583	6.311005999999907	trials	0.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	 	
+5670.301583	6.311005999999907	states											"   state_name
+id           
+0     state_0"
+5670.301583	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5670.317583	0.009520999999949709	states											"           state_name
+id                   
+3   clean_sound_state"
+5670.327104	0.001479000000472297	states											"   state_name
+id           
+4         iti"
+5670.328583	0.1385069999996631	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5670.46709	0.0014929999997548293	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5670.468583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5672.468583	0.011500000000523869	states											"           state_name
+id                   
+13  center_2_side_gap"
+5672.480083	1.1290059999992081	states											"        state_name
+id                
+17  wait_for_spoke"
+5673.609089	0.001494000000093365	states											"      state_name
+id              
+18  error_state1"
+5673.610583	3.0010000000002037	states											"     state_name
+id             
+19  error_state"
+5676.611583	0.001006000000415952	states											"        state_name
+id                
+30  clean_up_state"
+5676.61309	21.45600000000013	trials	1.0	0.0	2.0	2.0004949999993187	0.0	0.0	0.0	r	2.0	:	
+5676.61309	21.45600000000013	states											"   state_name
+id           
+0     state_0"
+5676.61309	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5676.62909	0.009508999999525258	states											"           state_name
+id                   
+3   clean_sound_state"
+5676.638599	0.0014840000003459863	states											"   state_name
+id           
+4         iti"
+5676.640083	13.553003999999419	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5690.193087	0.0015120000007300405	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5690.194599	2.0004949999993187	states											"   state_name
+id           
+9      cpoke1"
+5692.195094	0.011489000000437954	states											"           state_name
+id                   
+13  center_2_side_gap"
+5692.206583	0.5199999999995271	states											"        state_name
+id                
+17  wait_for_spoke"
+5692.726583	0.0005040000005465117	states											"      state_name
+id              
+23  right_reward"
+5692.727087	2.000011000000086	states											"   state_name
+id           
+24  hit_state"
+5694.727098	2.3399970000000394	states											"          state_name
+id                  
+29  soft_drink_state"
+5697.067095	1.0009879999997793	states											"   state_name
+id           
+26    warning"
+5698.068083	0.001006999999844993	states											"        state_name
+id                
+30  clean_up_state"
+5698.069583	6.866015999999945	trials	1.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	 	
+5698.069583	6.866015999999945	states											"   state_name
+id           
+0     state_0"
+5698.069583	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5698.085583	0.00951699999950506	states											"           state_name
+id                   
+3   clean_sound_state"
+5698.0951	0.0014830000000074506	states											"   state_name
+id           
+4         iti"
+5698.096583	0.3640000000004875	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5698.460583	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5698.462083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5700.462083	0.011007000000063272	states											"           state_name
+id                   
+13  center_2_side_gap"
+5700.47309	0.4590039999993678	states											"        state_name
+id                
+17  wait_for_spoke"
+5700.932094	0.0004890000000159489	states											"      state_name
+id              
+23  right_reward"
+5700.932583	2.000506000000314	states											"   state_name
+id           
+24  hit_state"
+5702.933089	1.0009939999999915	states											"          state_name
+id                  
+29  soft_drink_state"
+5703.934083	1.0005160000000615	states											"   state_name
+id           
+26    warning"
+5704.934599	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5704.936094	7.383495000000039	trials	1.0	0.0	-1.0	2.0	0.0	0.0	0.0	l	-1.0	M	
+5704.936094	7.383495000000039	states											"   state_name
+id           
+0     state_0"
+5704.936094	0.015995000000657456	states											"          state_name
+id                  
+1   sending_trialnum"
+5704.952089	0.00949399999990419	states											"           state_name
+id                   
+3   clean_sound_state"
+5704.961583	0.0010160000001633307	states											"   state_name
+id           
+4         iti"
+5704.962599	0.47249099999953614	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5705.43509	0.0014929999997548293	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5705.436583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5707.436583	0.01101600000038161	states											"           state_name
+id                   
+13  center_2_side_gap"
+5707.447599	0.5179840000000695	states											"        state_name
+id                
+17  wait_for_spoke"
+5707.965583	0.0005009999995309045	states											"     state_name
+id             
+22  left_reward"
+5707.966084	2.0000049999998737	states											"   state_name
+id           
+24  hit_state"
+5709.966089	1.3514990000003309	states											"          state_name
+id                  
+29  soft_drink_state"
+5711.317588	1.00099500000033	states											"   state_name
+id           
+26    warning"
+5712.318583	0.0010059999995064572	states											"        state_name
+id                
+30  clean_up_state"
+5712.320089	11.246004999999968	trials	1.0	0.0	1.0	2.0000019999997676	0.0	0.0	0.0	r	1.0	a	
+5712.320089	11.246004999999968	states											"   state_name
+id           
+0     state_0"
+5712.320089	0.01599400000031892	states											"          state_name
+id                  
+1   sending_trialnum"
+5712.336083	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5712.345583	0.0015069999999468564	states											"   state_name
+id           
+4         iti"
+5712.34709	3.9224930000000313	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5716.269583	0.0015050000001792796	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5716.271088	2.0000019999997676	states											"   state_name
+id           
+9      cpoke1"
+5718.27109	0.011492999999973108	states											"           state_name
+id                   
+13  center_2_side_gap"
+5718.282583	0.7240000000001601	states											"        state_name
+id                
+17  wait_for_spoke"
+5719.006583	0.0005059999994045938	states											"      state_name
+id              
+23  right_reward"
+5719.007089	2.0000010000003385	states											"   state_name
+id           
+24  hit_state"
+5721.00709	1.5574930000002496	states											"          state_name
+id                  
+29  soft_drink_state"
+5722.564583	1.0005069999997431	states											"   state_name
+id           
+26    warning"
+5723.56509	0.0010039999997388804	states											"        state_name
+id                
+30  clean_up_state"
+5723.566583	13.943500000000313	trials	0.0	1.0	1.0			0.0	0.0	r	1.0	r	
+5723.566583	13.943500000000313	states											"   state_name
+id           
+0     state_0"
+5723.566583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5723.582583	0.00949999999920692	states											"           state_name
+id                   
+3   clean_sound_state"
+5723.592083	0.0010070000007544877	states											"   state_name
+id           
+4         iti"
+5723.59309	0.6889929999997548	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5724.282083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5724.283583	1.9984999999996944	states											"   state_name
+id           
+9      cpoke1"
+5726.282083	0.20100900000034017	states											"        state_name
+id                
+12  temp_violation"
+5726.483092	0.0014909999999872525	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5726.484583	1.7960159999993266	states											"   state_name
+id           
+9      cpoke1"
+5728.280599	0.20098400000006222	states											"        state_name
+id                
+12  temp_violation"
+5728.481583	0.06050000000050204	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5728.542083	0.0015159999993556994	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5728.543599	0.38798399999996036	states											"   state_name
+id           
+9      cpoke1"
+5728.931583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5729.132583	2.4420000000000073	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5731.574583	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5731.576083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5733.576083	0.011500000000523869	states											"           state_name
+id                   
+13  center_2_side_gap"
+5733.587583	0.918999999999869	states											"        state_name
+id                
+17  wait_for_spoke"
+5734.506583	0.0014999999993960955	states											"      state_name
+id              
+18  error_state1"
+5734.508083	3.001006999999845	states											"     state_name
+id             
+19  error_state"
+5737.50909	0.0009930000005624606	states											"        state_name
+id                
+30  clean_up_state"
+5737.510583	8.38799999999992	trials	0.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	i	
+5737.510583	8.38799999999992	states											"   state_name
+id           
+0     state_0"
+5737.510583	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5737.526583	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5737.536083	0.0010099999999511056	states											"   state_name
+id           
+4         iti"
+5737.537093	2.2014900000003763	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5739.738583	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5739.740083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5741.740083	0.01101100000050792	states											"           state_name
+id                   
+13  center_2_side_gap"
+5741.751094	1.143489000000045	states											"        state_name
+id                
+17  wait_for_spoke"
+5742.894583	0.0014999999993960955	states											"      state_name
+id              
+18  error_state1"
+5742.896083	3.0015000000003056	states											"     state_name
+id             
+19  error_state"
+5745.897583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5745.899096	5.738486999999623	trials	0.0	0.0	1.0	2.00000799999998	0.0	0.0	0.0	r	1.0	n	
+5745.899096	5.738486999999623	states											"   state_name
+id           
+0     state_0"
+5745.899096	0.01599900000019261	states											"          state_name
+id                  
+1   sending_trialnum"
+5745.915095	0.009487999999691965	states											"           state_name
+id                   
+3   clean_sound_state"
+5745.924583	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+5745.925583	0.14401600000019243	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5746.069599	0.001488999999310181	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5746.071088	2.00000799999998	states											"   state_name
+id           
+9      cpoke1"
+5748.071096	0.011487000000670378	states											"           state_name
+id                   
+13  center_2_side_gap"
+5748.082583	0.5510159999994357	states											"        state_name
+id                
+17  wait_for_spoke"
+5748.633599	0.0014909999999872525	states											"      state_name
+id              
+18  error_state1"
+5748.63509	3.0014930000006643	states											"     state_name
+id             
+19  error_state"
+5751.636583	0.0009999999992942321	states											"        state_name
+id                
+30  clean_up_state"
+5751.638083	7.392007999999805	trials	1.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	o	
+5751.638083	7.392007999999805	states											"   state_name
+id           
+0     state_0"
+5751.638083	0.016005999999833875	states											"          state_name
+id                  
+1   sending_trialnum"
+5751.654089	0.009496000000581262	states											"           state_name
+id                   
+3   clean_sound_state"
+5751.663585	0.0015009999997346313	states											"   state_name
+id           
+4         iti"
+5751.665086	0.8735130000004574	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5752.538599	0.0014839999994364916	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5752.540083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5754.540083	0.011500000000523869	states											"           state_name
+id                   
+13  center_2_side_gap"
+5754.551583	0.4749999999994543	states											"        state_name
+id                
+17  wait_for_spoke"
+5755.026583	0.0005110000001877779	states											"      state_name
+id              
+23  right_reward"
+5755.027094	2.0005049999999756	states											"   state_name
+id           
+24  hit_state"
+5757.027599	1.0009840000002441	states											"          state_name
+id                  
+29  soft_drink_state"
+5758.028583	1.0005069999997431	states											"   state_name
+id           
+26    warning"
+5759.02909	0.0010009999996327679	states											"        state_name
+id                
+30  clean_up_state"
+5759.030583	8.122000000000298	trials	1.0	0.0	2.0	2.000014999999621	0.0	0.0	0.0	r	2.0	,	
+5759.030583	8.122000000000298	states											"   state_name
+id           
+0     state_0"
+5759.030583	0.01601600000049075	states											"          state_name
+id                  
+1   sending_trialnum"
+5759.046599	0.009484000000156811	states											"           state_name
+id                   
+3   clean_sound_state"
+5759.056083	0.001006999999844993	states											"   state_name
+id           
+4         iti"
+5759.05709	0.5974929999993037	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5759.654583	0.001501000000644126	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5759.656084	2.000014999999621	states											"   state_name
+id           
+9      cpoke1"
+5761.656099	0.011489999999866995	states											"           state_name
+id                   
+13  center_2_side_gap"
+5761.667589	0.5525100000004386	states											"        state_name
+id                
+17  wait_for_spoke"
+5762.220099	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5762.220599	2.0004909999997835	states											"   state_name
+id           
+24  hit_state"
+5764.22109	1.929508999999598	states											"          state_name
+id                  
+29  soft_drink_state"
+5766.150599	1.0009840000002441	states											"   state_name
+id           
+26    warning"
+5767.151583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5767.153085	12.942003000000113	trials	1.0	1.0	1.0			0.0	0.0	r	1.0	 	
+5767.153085	12.942003000000113	states											"   state_name
+id           
+0     state_0"
+5767.153085	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5767.169085	0.009497999999439344	states											"           state_name
+id                   
+3   clean_sound_state"
+5767.178583	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+5767.179583	0.1999999999998181	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5767.379583	0.001510000000052969	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5767.381093	1.9139930000001186	states											"   state_name
+id           
+9      cpoke1"
+5769.295086	0.20099699999991572	states											"        state_name
+id                
+12  temp_violation"
+5769.496083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5769.497583	0.23999999999978172	states											"   state_name
+id           
+9      cpoke1"
+5769.737583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5769.938583	2.790504999999939	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5772.729088	0.0014949999995224061	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5772.730583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5774.730583	0.011500000000523869	states											"           state_name
+id                   
+13  center_2_side_gap"
+5774.742083	0.6935059999996156	states											"        state_name
+id                
+17  wait_for_spoke"
+5775.435589	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5775.436089	2.0005099999998492	states											"   state_name
+id           
+24  hit_state"
+5777.436599	1.656491000000642	states											"          state_name
+id                  
+29  soft_drink_state"
+5779.09309	1.0010089999996126	states											"   state_name
+id           
+26    warning"
+5780.094099	0.0009890000001178123	states											"        state_name
+id                
+30  clean_up_state"
+5780.095583	8.706499999999323	trials	1.0	0.0	-1.0	2.0004969999999958	0.0	0.0	0.0	l	-1.0	P	
+5780.095583	8.706499999999323	states											"   state_name
+id           
+0     state_0"
+5780.095583	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5780.111583	0.009509000000434753	states											"           state_name
+id                   
+3   clean_sound_state"
+5780.121092	0.001006999999844993	states											"   state_name
+id           
+4         iti"
+5780.122099	0.427983999999924	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5780.550083	0.0015089999997144332	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5780.551592	2.0004969999999958	states											"   state_name
+id           
+9      cpoke1"
+5782.552089	0.01099900000008347	states											"           state_name
+id                   
+13  center_2_side_gap"
+5782.563088	0.8739990000003672	states											"        state_name
+id                
+17  wait_for_spoke"
+5783.437087	0.0004959999996572151	states											"     state_name
+id             
+22  left_reward"
+5783.437583	2.0000019999997676	states											"   state_name
+id           
+24  hit_state"
+5785.437585	2.3629989999999452	states											"          state_name
+id                  
+29  soft_drink_state"
+5787.800584	1.000506000000314	states											"   state_name
+id           
+26    warning"
+5788.80109	0.000992999999652966	states											"        state_name
+id                
+30  clean_up_state"
+5788.802583	7.579000000000633	trials	1.0	1.0	2.0			0.0	0.0	r	2.0	0	
+5788.802583	7.579000000000633	states											"   state_name
+id           
+0     state_0"
+5788.802583	0.01601600000049075	states											"          state_name
+id                  
+1   sending_trialnum"
+5788.818599	0.009484000000156811	states											"           state_name
+id                   
+3   clean_sound_state"
+5788.828083	0.001006999999844993	states											"   state_name
+id           
+4         iti"
+5788.82909	0.5749930000001768	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5789.404083	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5789.405583	0.06850000000031287	states											"   state_name
+id           
+9      cpoke1"
+5789.474083	0.20100399999955698	states											"        state_name
+id                
+12  temp_violation"
+5789.675087	0.0015120000007300405	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5789.676599	2.0	states											"   state_name
+id           
+9      cpoke1"
+5791.676599	0.010985999999320484	states											"           state_name
+id                   
+13  center_2_side_gap"
+5791.687585	0.38751500000034866	states											"        state_name
+id                
+17  wait_for_spoke"
+5792.0751	0.00048299999980372377	states											"      state_name
+id              
+23  right_reward"
+5792.075583	2.0000159999999596	states											"   state_name
+id           
+24  hit_state"
+5794.075599	1.30399000000034	states											"          state_name
+id                  
+29  soft_drink_state"
+5795.379589	1.001009999999951	states											"   state_name
+id           
+26    warning"
+5796.380599	0.000984000000244123	states											"        state_name
+id                
+30  clean_up_state"
+5796.382083	10.295515999999225	trials	1.0	1.0	1.0			0.0	0.0	r	1.0	0	
+5796.382083	10.295515999999225	states											"   state_name
+id           
+0     state_0"
+5796.382083	0.01600999999936903	states											"          state_name
+id                  
+1   sending_trialnum"
+5796.398093	0.009490000000369037	states											"           state_name
+id                   
+3   clean_sound_state"
+5796.407583	0.0010160000001633307	states											"   state_name
+id           
+4         iti"
+5796.408599	1.4449839999997494	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5797.853583	0.001516000000265194	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5797.855099	0.3019909999993615	states											"   state_name
+id           
+9      cpoke1"
+5798.15709	0.20099300000038056	states											"        state_name
+id                
+12  temp_violation"
+5798.358083	0.0015059999996083206	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5798.359589	2.000500000000102	states											"   state_name
+id           
+9      cpoke1"
+5800.360089	0.011510000000271248	states											"           state_name
+id                   
+13  center_2_side_gap"
+5800.371599	0.30350300000009156	states											"        state_name
+id                
+17  wait_for_spoke"
+5800.675102	0.00048100000003614696	states											"      state_name
+id              
+23  right_reward"
+5800.675583	2.0000159999999596	states											"   state_name
+id           
+24  hit_state"
+5802.675599	3.0004849999995713	states											"          state_name
+id                  
+29  soft_drink_state"
+5805.676084	1.0005150000006324	states											"   state_name
+id           
+26    warning"
+5806.676599	0.0009999999992942321	states											"        state_name
+id                
+30  clean_up_state"
+5806.678083	7.79300400000011	trials	1.0	0.0	1.0	2.0	0.0	0.0	0.0	r	1.0	7	
+5806.678083	7.79300400000011	states											"   state_name
+id           
+0     state_0"
+5806.678083	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5806.694083	0.009500999999545456	states											"           state_name
+id                   
+3   clean_sound_state"
+5806.703584	0.0015060000005178154	states											"   state_name
+id           
+4         iti"
+5806.70509	0.011492999999973108	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5806.716583	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5806.718083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5808.718083	0.011010000000169384	states											"           state_name
+id                   
+13  center_2_side_gap"
+5808.729093	0.5034900000000562	states											"        state_name
+id                
+17  wait_for_spoke"
+5809.232583	0.0005060000003140885	states											"      state_name
+id              
+23  right_reward"
+5809.233089	2.000000999999429	states											"   state_name
+id           
+24  hit_state"
+5811.23309	2.2360020000005534	states											"          state_name
+id                  
+29  soft_drink_state"
+5813.469092	1.0009909999998854	states											"   state_name
+id           
+26    warning"
+5814.470083	0.0010039999997388804	states											"        state_name
+id                
+30  clean_up_state"
+5814.471583	5.983516000000236	trials	0.0	0.0	2.0	2.0000010000003385	0.0	0.0	0.0	r	2.0	.	
+5814.471583	5.983516000000236	states											"   state_name
+id           
+0     state_0"
+5814.471583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5814.487583	0.009508000000096217	states											"           state_name
+id                   
+3   clean_sound_state"
+5814.497091	0.0014919999994162936	states											"   state_name
+id           
+4         iti"
+5814.498583	0.2760000000007494	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5814.774583	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5814.776083	2.0000010000003385	states											"   state_name
+id           
+9      cpoke1"
+5816.776084	0.011007000000063272	states											"           state_name
+id                   
+13  center_2_side_gap"
+5816.787091	0.664491999999882	states											"        state_name
+id                
+17  wait_for_spoke"
+5817.451583	0.0015069999999468564	states											"      state_name
+id              
+18  error_state1"
+5817.45309	3.0010089999996126	states											"     state_name
+id             
+19  error_state"
+5820.454099	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5820.455583	9.402000000000044	trials	1.0	0.0	1.0	2.0	0.0	0.0	0.0	r	1.0	 	
+5820.455583	9.402000000000044	states											"   state_name
+id           
+0     state_0"
+5820.455583	0.01601600000049075	states											"          state_name
+id                  
+1   sending_trialnum"
+5820.471599	0.009495999999671767	states											"           state_name
+id                   
+3   clean_sound_state"
+5820.481095	0.0010039999997388804	states											"   state_name
+id           
+4         iti"
+5820.482099	0.31050000000050204	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5820.792599	0.0014839999994364916	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5820.794083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5822.794083	0.011500000000523869	states											"           state_name
+id                   
+13  center_2_side_gap"
+5822.805583	1.0484999999998763	states											"        state_name
+id                
+17  wait_for_spoke"
+5823.854083	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5823.854583	2.000511999999617	states											"   state_name
+id           
+24  hit_state"
+5825.855095	3.0004879999996774	states											"          state_name
+id                  
+29  soft_drink_state"
+5828.855583	1.0010000000002037	states											"   state_name
+id           
+26    warning"
+5829.856583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5829.858083	8.883504000000357	trials	1.0	0.0	1.0	2.0005049999999756	0.0	0.0	0.0	r	1.0	 	
+5829.858083	8.883504000000357	states											"   state_name
+id           
+0     state_0"
+5829.858083	0.016000999999960186	states											"          state_name
+id                  
+1   sending_trialnum"
+5829.874084	0.00949899999977788	states											"           state_name
+id                   
+3   clean_sound_state"
+5829.883583	0.0015069999999468564	states											"   state_name
+id           
+4         iti"
+5829.88509	0.26549900000009075	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5830.150589	0.0015050000001792796	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5830.152094	2.0005049999999756	states											"   state_name
+id           
+9      cpoke1"
+5832.152599	0.010983999999552907	states											"           state_name
+id                   
+13  center_2_side_gap"
+5832.163583	0.5745000000006257	states											"        state_name
+id                
+17  wait_for_spoke"
+5832.738083	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5832.738583	2.0005029999992985	states											"   state_name
+id           
+24  hit_state"
+5834.739086	3.0004969999999958	states											"          state_name
+id                  
+29  soft_drink_state"
+5837.739583	1.0010000000002037	states											"   state_name
+id           
+26    warning"
+5838.740583	0.0010040000006483751	states											"        state_name
+id                
+30  clean_up_state"
+5838.742099	8.38248399999975	trials	1.0	1.0	2.0			0.0	0.0	r	2.0	S	
+5838.742099	8.38248399999975	states											"   state_name
+id           
+0     state_0"
+5838.742099	0.015983999999662046	states											"          state_name
+id                  
+1   sending_trialnum"
+5838.758083	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5838.767583	0.0015069999999468564	states											"   state_name
+id           
+4         iti"
+5838.76909	0.6195090000001073	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5839.388599	0.0014840000003459863	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5839.390083	0.11100399999941146	states											"   state_name
+id           
+9      cpoke1"
+5839.501087	0.20099600000048667	states											"        state_name
+id                
+12  temp_violation"
+5839.702083	0.0015050000001792796	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5839.703588	2.0004949999993187	states											"   state_name
+id           
+9      cpoke1"
+5841.704083	0.011500000000523869	states											"           state_name
+id                   
+13  center_2_side_gap"
+5841.715583	0.488999999999578	states											"        state_name
+id                
+17  wait_for_spoke"
+5842.204583	0.0005040000005465117	states											"      state_name
+id              
+23  right_reward"
+5842.205087	2.000017999999727	states											"   state_name
+id           
+24  hit_state"
+5844.205105	1.917478000000301	states											"          state_name
+id                  
+29  soft_drink_state"
+5846.122583	1.0010159999992538	states											"   state_name
+id           
+26    warning"
+5847.123599	0.000984000000244123	states											"        state_name
+id                
+30  clean_up_state"
+5847.12509	17.324494000000414	trials	1.0	1.0	-2.0			0.0	0.0	l	-2.0	t	
+5847.12509	17.324494000000414	states											"   state_name
+id           
+0     state_0"
+5847.12509	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5847.14109	0.009492999999565654	states											"           state_name
+id                   
+3   clean_sound_state"
+5847.150583	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+5847.151583	6.225505999999768	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5853.377089	0.001510000000052969	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5853.378599	0.4744909999999436	states											"   state_name
+id           
+9      cpoke1"
+5853.85309	0.20099300000038056	states											"        state_name
+id                
+12  temp_violation"
+5854.054083	0.0015069999999468564	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5854.05559	1.9060090000002674	states											"   state_name
+id           
+9      cpoke1"
+5855.961599	0.20098400000006222	states											"        state_name
+id                
+12  temp_violation"
+5856.162583	0.39399999999932334	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5856.556583	0.0015060000005178154	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5856.558089	2.0004939999998896	states											"   state_name
+id           
+9      cpoke1"
+5858.558583	0.011499999999614374	states											"           state_name
+id                   
+13  center_2_side_gap"
+5858.570083	0.6550070000002961	states											"        state_name
+id                
+17  wait_for_spoke"
+5859.22509	0.0004930000004605972	states											"     state_name
+id             
+22  left_reward"
+5859.225583	2.0004999999991924	states											"   state_name
+id           
+24  hit_state"
+5861.226083	2.222000000000662	states											"          state_name
+id                  
+29  soft_drink_state"
+5863.448083	1.0005160000000615	states											"   state_name
+id           
+26    warning"
+5864.448599	0.000984999999673164	states											"        state_name
+id                
+30  clean_up_state"
+5864.450083	15.974006000000372	trials	1.0	1.0	2.0			0.0	0.0	r	2.0	a	
+5864.450083	15.974006000000372	states											"   state_name
+id           
+0     state_0"
+5864.450083	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5864.466083	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5864.475583	0.0015129999992495868	states											"   state_name
+id           
+4         iti"
+5864.477096	4.806988000000274	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5869.284084	0.0014989999999670545	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5869.285583	1.9960010000004331	states											"   state_name
+id           
+9      cpoke1"
+5871.281584	0.2009989999996833	states											"        state_name
+id                
+12  temp_violation"
+5871.482583	0.5694999999996071	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5872.052083	0.001516000000265194	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5872.053599	2.0004840000001423	states											"   state_name
+id           
+9      cpoke1"
+5874.054083	0.011019999999916763	states											"           state_name
+id                   
+13  center_2_side_gap"
+5874.065103	0.3559850000001461	states											"        state_name
+id                
+17  wait_for_spoke"
+5874.421088	0.000495000000228174	states											"      state_name
+id              
+23  right_reward"
+5874.421583	2.000500000000102	states											"   state_name
+id           
+24  hit_state"
+5876.422083	3.0004999999991924	states											"          state_name
+id                  
+29  soft_drink_state"
+5879.422583	1.0005049999999756	states											"   state_name
+id           
+26    warning"
+5880.423088	0.0010010000005422626	states											"        state_name
+id                
+30  clean_up_state"
+5880.424599	7.358489000000191	trials	1.0	0.0	1.0	2.000003999999535	0.0	0.0	0.0	r	1.0	r	
+5880.424599	7.358489000000191	states											"   state_name
+id           
+0     state_0"
+5880.424599	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5880.440599	0.009490000000369037	states											"           state_name
+id                   
+3   clean_sound_state"
+5880.450089	0.001006999999844993	states											"   state_name
+id           
+4         iti"
+5880.451096	0.2524870000006558	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5880.703583	0.0015069999999468564	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5880.70509	2.000003999999535	states											"   state_name
+id           
+9      cpoke1"
+5882.705094	0.011505000000397558	states											"           state_name
+id                   
+13  center_2_side_gap"
+5882.716599	0.5209839999997712	states											"        state_name
+id                
+17  wait_for_spoke"
+5883.237583	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5883.238083	2.0000159999999596	states											"   state_name
+id           
+24  hit_state"
+5885.238099	1.542993000000024	states											"          state_name
+id                  
+29  soft_drink_state"
+5886.781092	1.0009909999998854	states											"   state_name
+id           
+26    warning"
+5887.782083	0.0010050000000774162	states											"        state_name
+id                
+30  clean_up_state"
+5887.783583	8.876999999999498	trials	1.0	0.0	1.0	2.000003000000106	0.0	0.0	0.0	r	1.0	t	
+5887.783583	8.876999999999498	states											"   state_name
+id           
+0     state_0"
+5887.783583	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+5887.799583	0.009508000000096217	states											"           state_name
+id                   
+3   clean_sound_state"
+5887.809091	0.0014920000003257883	states											"   state_name
+id           
+4         iti"
+5887.810583	0.3709999999991851	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5888.181583	0.0015040000007502385	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5888.183087	2.000003000000106	states											"   state_name
+id           
+9      cpoke1"
+5890.18309	0.011492999999973108	states											"           state_name
+id                   
+13  center_2_side_gap"
+5890.194583	0.5625069999996413	states											"        state_name
+id                
+17  wait_for_spoke"
+5890.75709	0.0005089999995107064	states											"      state_name
+id              
+23  right_reward"
+5890.757599	2.0004840000001423	states											"   state_name
+id           
+24  hit_state"
+5892.758083	2.9005000000006476	states											"          state_name
+id                  
+29  soft_drink_state"
+5895.658583	1.0010159999992538	states											"   state_name
+id           
+26    warning"
+5896.659599	0.000984000000244123	states											"        state_name
+id                
+30  clean_up_state"
+5896.661095	9.224487999999837	trials	1.0	1.0	-2.0			0.0	0.0	l	-2.0	e	
+5896.661095	9.224487999999837	states											"   state_name
+id           
+0     state_0"
+5896.661095	0.015998999999283114	states											"          state_name
+id                  
+1   sending_trialnum"
+5896.677094	0.0094890000000305	states											"           state_name
+id                   
+3   clean_sound_state"
+5896.686583	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+5896.687583	0.5650160000004689	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5897.252599	0.0014839999994364916	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5897.254083	1.7979999999997744	states											"   state_name
+id           
+9      cpoke1"
+5899.052083	0.2010100000006787	states											"        state_name
+id                
+12  temp_violation"
+5899.253093	0.07148999999935768	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5899.324583	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5899.326083	2.0000060000002122	states											"   state_name
+id           
+9      cpoke1"
+5901.326089	0.011494000000311644	states											"           state_name
+id                   
+13  center_2_side_gap"
+5901.337583	0.5444999999999709	states											"        state_name
+id                
+17  wait_for_spoke"
+5901.882083	0.0005059999994045938	states											"     state_name
+id             
+22  left_reward"
+5901.882589	2.000500000000102	states											"   state_name
+id           
+24  hit_state"
+5903.883089	1.0009939999999915	states											"          state_name
+id                  
+29  soft_drink_state"
+5904.884083	1.0005000000001019	states											"   state_name
+id           
+26    warning"
+5905.884583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5905.886083	7.599005999999463	trials	1.0	0.0	2.0	2.000003000000106	0.0	0.0	0.0	r	2.0	d	
+5905.886083	7.599005999999463	states											"   state_name
+id           
+0     state_0"
+5905.886083	0.016005999999833875	states											"          state_name
+id                  
+1   sending_trialnum"
+5905.902089	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5905.911589	0.0015009999997346313	states											"   state_name
+id           
+4         iti"
+5905.91309	0.3104929999999513	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5906.223583	0.0015130000001590815	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5906.225096	2.000003000000106	states											"   state_name
+id           
+9      cpoke1"
+5908.225099	0.01148399999965477	states											"           state_name
+id                   
+13  center_2_side_gap"
+5908.236583	0.6045059999996738	states											"        state_name
+id                
+17  wait_for_spoke"
+5908.841089	0.000494000000799133	states											"      state_name
+id              
+23  right_reward"
+5908.841583	2.0004999999991924	states											"   state_name
+id           
+24  hit_state"
+5910.842083	1.6410150000001522	states											"          state_name
+id                  
+29  soft_drink_state"
+5912.483098	1.0009850000005827	states											"   state_name
+id           
+26    warning"
+5913.484083	0.0010059999995064572	states											"        state_name
+id                
+30  clean_up_state"
+5913.485583	5.701000000000022	trials	0.0	0.0	-1.0	2.0004840000001423	0.0	0.0	0.0	l	-1.0	 	
+5913.485583	5.701000000000022	states											"   state_name
+id           
+0     state_0"
+5913.485583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5913.501583	0.009512999999969907	states											"           state_name
+id                   
+3   clean_sound_state"
+5913.511096	0.0014869999995426042	states											"   state_name
+id           
+4         iti"
+5913.512583	0.33150000000023283	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5913.844083	0.001516000000265194	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5913.845599	2.0004840000001423	states											"   state_name
+id           
+9      cpoke1"
+5915.846083	0.011015000000043074	states											"           state_name
+id                   
+13  center_2_side_gap"
+5915.857098	0.325992000000042	states											"        state_name
+id                
+17  wait_for_spoke"
+5916.18309	0.0014989999999670545	states											"      state_name
+id              
+18  error_state1"
+5916.184589	3.0009939999999915	states											"     state_name
+id             
+19  error_state"
+5919.185583	0.0009999999992942321	states											"        state_name
+id                
+30  clean_up_state"
+5919.187088	9.897495000000163	trials	1.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	a	
+5919.187088	9.897495000000163	states											"   state_name
+id           
+0     state_0"
+5919.187088	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5919.203088	0.009495000000242726	states											"           state_name
+id                   
+3   clean_sound_state"
+5919.212583	0.0010089999996125698	states											"   state_name
+id           
+4         iti"
+5919.213592	1.366490999999769	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5920.580083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5920.581583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5922.581583	0.011508999999932712	states											"           state_name
+id                   
+13  center_2_side_gap"
+5922.593092	0.48899100000016915	states											"        state_name
+id                
+17  wait_for_spoke"
+5923.082083	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5923.082583	2.0000059999993027	states											"   state_name
+id           
+24  hit_state"
+5925.082589	3.0005010000004404	states											"          state_name
+id                  
+29  soft_drink_state"
+5928.08309	1.000492999999551	states											"   state_name
+id           
+26    warning"
+5929.083583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+5929.085097	9.325001999999586	trials	1.0	0.0	-2.0	2.0	0.0	0.0	0.0	l	-2.0	t	
+5929.085097	9.325001999999586	states											"   state_name
+id           
+0     state_0"
+5929.085097	0.01599400000031892	states											"          state_name
+id                  
+1   sending_trialnum"
+5929.101091	0.009491999999227119	states											"           state_name
+id                   
+3   clean_sound_state"
+5929.110583	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+5929.111583	0.4135070000002088	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5929.52509	0.0014929999997548293	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5929.526583	2.0	states											"   state_name
+id           
+9      cpoke1"
+5931.526583	0.011500000000523869	states											"           state_name
+id                   
+13  center_2_side_gap"
+5931.538083	1.2135159999997995	states											"        state_name
+id                
+17  wait_for_spoke"
+5932.751599	0.0004909999997835257	states											"     state_name
+id             
+22  left_reward"
+5932.75209	2.0004989999997633	states											"   state_name
+id           
+24  hit_state"
+5934.752589	2.656010000000606	states											"          state_name
+id                  
+29  soft_drink_state"
+5937.408599	1.0004959999996572	states											"   state_name
+id           
+26    warning"
+5938.409095	0.0010039999997388804	states											"        state_name
+id                
+30  clean_up_state"
+5938.410599	8.487984000000324	trials	1.0	0.0	-2.0	2.0004840000001423	0.0	0.0	0.0	l	-2.0	 	
+5938.410599	8.487984000000324	states											"   state_name
+id           
+0     state_0"
+5938.410599	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5938.426599	0.009483999999247317	states											"           state_name
+id                   
+3   clean_sound_state"
+5938.436083	0.0010070000007544877	states											"   state_name
+id           
+4         iti"
+5938.43709	0.08149299999968207	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5938.518583	0.001516000000265194	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5938.520099	2.0004840000001423	states											"   state_name
+id           
+9      cpoke1"
+5940.520583	0.011499999999614374	states											"           state_name
+id                   
+13  center_2_side_gap"
+5940.532083	1.20049999999992	states											"        state_name
+id                
+17  wait_for_spoke"
+5941.732583	0.0005069999997431296	states											"     state_name
+id             
+22  left_reward"
+5941.73309	2.0004930000004606	states											"   state_name
+id           
+24  hit_state"
+5943.733583	2.162999999999556	states											"          state_name
+id                  
+29  soft_drink_state"
+5945.896583	1.0010160000001633	states											"   state_name
+id           
+26    warning"
+5946.897599	0.000984000000244123	states											"        state_name
+id                
+30  clean_up_state"
+5946.899094	11.868988999999601	trials	1.0	1.0	-1.0			0.0	0.0	l	-1.0	1	
+5946.899094	11.868988999999601	states											"   state_name
+id           
+0     state_0"
+5946.899094	0.016010999999707565	states											"          state_name
+id                  
+1   sending_trialnum"
+5946.915105	0.00949399999990419	states											"           state_name
+id                   
+3   clean_sound_state"
+5946.924599	0.0014840000003459863	states											"   state_name
+id           
+4         iti"
+5946.926083	0.6059999999997672	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5947.532083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5947.533583	0.4899999999997817	states											"   state_name
+id           
+9      cpoke1"
+5948.023583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+5948.224583	0.001516000000265194	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5948.226099	1.994991999999911	states											"   state_name
+id           
+9      cpoke1"
+5950.221091	0.20099299999947107	states											"        state_name
+id                
+12  temp_violation"
+5950.422084	1.666505000000143	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5952.088589	0.0015050000001792796	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5952.090094	2.0005049999999756	states											"   state_name
+id           
+9      cpoke1"
+5954.090599	0.010989999999765132	states											"           state_name
+id                   
+13  center_2_side_gap"
+5954.101589	0.4539940000004208	states											"        state_name
+id                
+17  wait_for_spoke"
+5954.555583	0.0005000000001018634	states											"     state_name
+id             
+22  left_reward"
+5954.556083	2.0004999999991924	states											"   state_name
+id           
+24  hit_state"
+5956.556583	1.209500000000844	states											"          state_name
+id                  
+29  soft_drink_state"
+5957.766083	1.0010039999997389	states											"   state_name
+id           
+26    warning"
+5958.767087	0.0009959999997590785	states											"        state_name
+id                
+30  clean_up_state"
+5958.768583	9.005500000000211	trials	1.0	1.0	1.0			0.0	0.0	r	1.0	1	
+5958.768583	9.005500000000211	states											"   state_name
+id           
+0     state_0"
+5958.768583	0.016000999999960186	states											"          state_name
+id                  
+1   sending_trialnum"
+5958.784584	0.00949899999977788	states											"           state_name
+id                   
+3   clean_sound_state"
+5958.794083	0.001006999999844993	states											"   state_name
+id           
+4         iti"
+5958.79509	0.5974990000004254	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5959.392589	0.001494000000093365	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5959.394083	0.3360000000002401	states											"   state_name
+id           
+9      cpoke1"
+5959.730083	0.20100800000000163	states											"        state_name
+id                
+12  temp_violation"
+5959.931091	0.2164919999995618	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5960.147583	0.0015069999999468564	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5960.14909	2.0000040000004446	states											"   state_name
+id           
+9      cpoke1"
+5962.149094	0.01148899999952846	states											"           state_name
+id                   
+13  center_2_side_gap"
+5962.160583	0.5209999999997308	states											"        state_name
+id                
+17  wait_for_spoke"
+5962.681583	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5962.682083	2.000506000000314	states											"   state_name
+id           
+24  hit_state"
+5964.682589	2.0899939999999333	states											"          state_name
+id                  
+29  soft_drink_state"
+5966.772583	1.0005069999997431	states											"   state_name
+id           
+26    warning"
+5967.77309	0.0009930000005624606	states											"        state_name
+id                
+30  clean_up_state"
+5967.774583	9.860509999999522	trials	1.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	:	
+5967.774583	9.860509999999522	states											"   state_name
+id           
+0     state_0"
+5967.774583	0.016005999999833875	states											"          state_name
+id                  
+1   sending_trialnum"
+5967.790589	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5967.800089	0.0010089999996125698	states											"   state_name
+id           
+4         iti"
+5967.801098	1.9954850000003717	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5969.796583	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5969.798083	2.0	states											"   state_name
+id           
+9      cpoke1"
+5971.798083	0.011010000000169384	states											"           state_name
+id                   
+13  center_2_side_gap"
+5971.809093	0.8089900000004491	states											"        state_name
+id                
+17  wait_for_spoke"
+5972.618083	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5972.618583	2.0000159999999596	states											"   state_name
+id           
+24  hit_state"
+5974.618599	2.014490999999907	states											"          state_name
+id                  
+29  soft_drink_state"
+5976.63309	1.000992999999653	states											"   state_name
+id           
+26    warning"
+5977.634083	0.0010099999999511056	states											"        state_name
+id                
+30  clean_up_state"
+5977.635585	7.894497999999658	trials	1.0	0.0	2.0	2.000000999999429	0.0	0.0	0.0	r	2.0	1	
+5977.635585	7.894497999999658	states											"   state_name
+id           
+0     state_0"
+5977.635585	0.015997999999854073	states											"          state_name
+id                  
+1   sending_trialnum"
+5977.651583	0.00950600000032864	states											"           state_name
+id                   
+3   clean_sound_state"
+5977.661089	0.001494000000093365	states											"   state_name
+id           
+4         iti"
+5977.662583	0.23149999999986903	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5977.894083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5977.895583	2.000000999999429	states											"   state_name
+id           
+9      cpoke1"
+5979.895584	0.011502999999720487	states											"           state_name
+id                   
+13  center_2_side_gap"
+5979.907087	0.6444960000007995	states											"        state_name
+id                
+17  wait_for_spoke"
+5980.551583	0.0004999999991923687	states											"      state_name
+id              
+23  right_reward"
+5980.552083	2.000016000000869	states											"   state_name
+id           
+24  hit_state"
+5982.552099	1.9759839999996984	states											"          state_name
+id                  
+29  soft_drink_state"
+5984.528083	1.0010029999994003	states											"   state_name
+id           
+26    warning"
+5985.529086	0.0009970000000976142	states											"        state_name
+id                
+30  clean_up_state"
+5985.530583	8.570510000000468	trials	1.0	0.0	-1.0	2.0000159999999596	0.0	0.0	0.0	l	-1.0	9	
+5985.530583	8.570510000000468	states											"   state_name
+id           
+0     state_0"
+5985.530583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5985.546583	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+5985.556083	0.0010019999999713036	states											"   state_name
+id           
+4         iti"
+5985.557085	0.9440039999999499	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5986.501089	0.001494000000093365	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5986.502583	2.0000159999999596	states											"   state_name
+id           
+9      cpoke1"
+5988.502599	0.01148399999965477	states											"           state_name
+id                   
+13  center_2_side_gap"
+5988.514083	0.37851599999976315	states											"        state_name
+id                
+17  wait_for_spoke"
+5988.892599	0.0004989999997633277	states											"     state_name
+id             
+22  left_reward"
+5988.893098	2.000485000000481	states											"   state_name
+id           
+24  hit_state"
+5990.893583	2.206000000000131	states											"          state_name
+id                  
+29  soft_drink_state"
+5993.099583	1.0005000000001019	states											"   state_name
+id           
+26    warning"
+5994.100083	0.0010099999999511056	states											"        state_name
+id                
+30  clean_up_state"
+5994.101583	9.60751000000073	trials	1.0	0.0	2.0	2.000489000000016	0.0	0.0	0.0	r	2.0	,	
+5994.101583	9.60751000000073	states											"   state_name
+id           
+0     state_0"
+5994.101583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+5994.117583	0.00951699999950506	states											"           state_name
+id                   
+3   clean_sound_state"
+5994.1271	0.0014830000000074506	states											"   state_name
+id           
+4         iti"
+5994.128583	1.8860160000003816	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+5996.014599	0.0014949999995224061	states											"             state_name
+id                     
+8   play_stimulus_sound"
+5996.016094	2.000489000000016	states											"   state_name
+id           
+9      cpoke1"
+5998.016583	0.01100600000063423	states											"           state_name
+id                   
+13  center_2_side_gap"
+5998.027589	0.9299940000000788	states											"        state_name
+id                
+17  wait_for_spoke"
+5998.957583	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+5998.958083	2.0004999999991924	states											"   state_name
+id           
+24  hit_state"
+6000.958583	1.7485050000004776	states											"          state_name
+id                  
+29  soft_drink_state"
+6002.707088	1.00099500000033	states											"   state_name
+id           
+26    warning"
+6003.708083	0.0010099999999511056	states											"        state_name
+id                
+30  clean_up_state"
+6003.709584	9.476498999999421	trials	1.0	0.0	1.0	2.0	0.0	0.0	0.0	r	1.0	 	
+6003.709584	9.476498999999421	states											"   state_name
+id           
+0     state_0"
+6003.709584	0.0160120000000461	states											"          state_name
+id                  
+1   sending_trialnum"
+6003.725596	0.0094890000000305	states											"           state_name
+id                   
+3   clean_sound_state"
+6003.735085	0.0015139999995881226	states											"   state_name
+id           
+4         iti"
+6003.736599	0.889484000000266	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6004.626083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6004.627583	2.0	states											"   state_name
+id           
+9      cpoke1"
+6006.627583	0.011504999999488064	states											"           state_name
+id                   
+13  center_2_side_gap"
+6006.639088	0.8414949999996679	states											"        state_name
+id                
+17  wait_for_spoke"
+6007.480583	0.0005130000008648494	states											"      state_name
+id              
+23  right_reward"
+6007.481096	2.000486999999339	states											"   state_name
+id           
+24  hit_state"
+6009.481583	2.7025000000003274	states											"          state_name
+id                  
+29  soft_drink_state"
+6012.184083	1.0010050000000774	states											"   state_name
+id           
+26    warning"
+6013.185088	0.0009949999994205427	states											"        state_name
+id                
+30  clean_up_state"
+6013.186583	7.77050700000018	trials	1.0	0.0	-2.0	2.0	0.0	0.0	0.0	l	-2.0	E	
+6013.186583	7.77050700000018	states											"   state_name
+id           
+0     state_0"
+6013.186583	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+6013.202583	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+6013.212083	0.001014999999824795	states											"   state_name
+id           
+4         iti"
+6013.213098	0.20498499999939668	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6013.418083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6013.419583	2.0	states											"   state_name
+id           
+9      cpoke1"
+6015.419583	0.011512000000038825	states											"           state_name
+id                   
+13  center_2_side_gap"
+6015.431095	0.5654880000001867	states											"        state_name
+id                
+17  wait_for_spoke"
+6015.996583	0.0005019999998694402	states											"     state_name
+id             
+22  left_reward"
+6015.997085	2.0	states											"   state_name
+id           
+24  hit_state"
+6017.997085	1.9580040000000736	states											"          state_name
+id                  
+29  soft_drink_state"
+6019.955089	1.0009939999999915	states											"   state_name
+id           
+26    warning"
+6020.956083	0.001006999999844993	states											"        state_name
+id                
+30  clean_up_state"
+6020.957583	8.742999999999483	trials	1.0	0.0	-1.0	2.0	0.0	0.0	0.0	l	-1.0	n	
+6020.957583	8.742999999999483	states											"   state_name
+id           
+0     state_0"
+6020.957583	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+6020.973583	0.009506999999757682	states											"           state_name
+id                   
+3   clean_sound_state"
+6020.98309	0.001493000000664324	states											"   state_name
+id           
+4         iti"
+6020.984583	2.1295000000000073	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6023.114083	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6023.115583	2.0	states											"   state_name
+id           
+9      cpoke1"
+6025.115583	0.011505000000397558	states											"           state_name
+id                   
+13  center_2_side_gap"
+6025.127088	0.569510999999693	states											"        state_name
+id                
+17  wait_for_spoke"
+6025.696599	0.0004909999997835257	states											"     state_name
+id             
+22  left_reward"
+6025.69709	2.0004930000004606	states											"   state_name
+id           
+24  hit_state"
+6027.697583	1.0010059999995065	states											"          state_name
+id                  
+29  soft_drink_state"
+6028.698589	1.0009939999999915	states											"   state_name
+id           
+26    warning"
+6029.699583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+6029.701092	7.699490999999398	trials	1.0	1.0	2.0			0.0	0.0	r	2.0	d	
+6029.701092	7.699490999999398	states											"   state_name
+id           
+0     state_0"
+6029.701092	0.01599499999974796	states											"          state_name
+id                  
+1   sending_trialnum"
+6029.717087	0.009495999999671767	states											"           state_name
+id                   
+3   clean_sound_state"
+6029.726583	0.0010000000002037268	states											"   state_name
+id           
+4         iti"
+6029.727583	0.3079999999999927	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6030.035583	0.0015050000001792796	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6030.037088	0.04600200000004406	states											"   state_name
+id           
+9      cpoke1"
+6030.08309	0.20100900000034017	states											"        state_name
+id                
+12  temp_violation"
+6030.284099	0.0014839999994364916	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6030.285583	2.0	states											"   state_name
+id           
+9      cpoke1"
+6032.285583	0.011502999999720487	states											"           state_name
+id                   
+13  center_2_side_gap"
+6032.297086	0.5534970000007888	states											"        state_name
+id                
+17  wait_for_spoke"
+6032.850583	0.0005059999994045938	states											"      state_name
+id              
+23  right_reward"
+6032.851089	2.0000090000003183	states											"   state_name
+id           
+24  hit_state"
+6034.851098	1.547986999999921	states											"          state_name
+id                  
+29  soft_drink_state"
+6036.399085	1.0004989999997633	states											"   state_name
+id           
+26    warning"
+6037.399584	0.000998999999865191	states											"        state_name
+id                
+30  clean_up_state"
+6037.401091	16.420992000000297	trials	1.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	e	
+6037.401091	16.420992000000297	states											"   state_name
+id           
+0     state_0"
+6037.401091	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+6037.417091	0.009492000000136613	states											"           state_name
+id                   
+3   clean_sound_state"
+6037.426583	0.0009999999992942321	states											"   state_name
+id           
+4         iti"
+6037.427583	8.67150700000002	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6046.09909	0.001493000000664324	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6046.100583	2.0	states											"   state_name
+id           
+9      cpoke1"
+6048.100583	0.01099999999951251	states											"           state_name
+id                   
+13  center_2_side_gap"
+6048.111583	0.5900160000001051	states											"        state_name
+id                
+17  wait_for_spoke"
+6048.701599	0.0004840000001422595	states											"      state_name
+id              
+23  right_reward"
+6048.702083	2.0	states											"   state_name
+id           
+24  hit_state"
+6050.702083	2.1184999999995853	states											"          state_name
+id                  
+29  soft_drink_state"
+6052.820583	1.0005170000004	states											"   state_name
+id           
+26    warning"
+6053.8211	0.0009829999999055872	states											"        state_name
+id                
+30  clean_up_state"
+6053.822583	10.640999999999622	trials	1.0	1.0	2.0			0.0	0.0	r	2.0	d	
+6053.822583	10.640999999999622	states											"   state_name
+id           
+0     state_0"
+6053.822583	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+6053.838583	0.009509000000434753	states											"           state_name
+id                   
+3   clean_sound_state"
+6053.848092	0.0014909999999872525	states											"   state_name
+id           
+4         iti"
+6053.849583	0.419503000000077	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6054.269086	0.0015130000001590815	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6054.270599	0.01298399999996036	states											"   state_name
+id           
+9      cpoke1"
+6054.283583	0.20101599999998143	states											"        state_name
+id                
+12  temp_violation"
+6054.484599	0.0014839999994364916	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6054.486083	0.04150000000026921	states											"   state_name
+id           
+9      cpoke1"
+6054.527583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+6054.728583	1.2305029999997714	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6055.959086	0.0015130000001590815	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6055.960599	2.0	states											"   state_name
+id           
+9      cpoke1"
+6057.960599	0.01148399999965477	states											"           state_name
+id                   
+13  center_2_side_gap"
+6057.972083	0.6635000000005675	states											"        state_name
+id                
+17  wait_for_spoke"
+6058.635583	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+6058.636083	2.0000099999997474	states											"   state_name
+id           
+24  hit_state"
+6060.636093	2.8254900000001726	states											"          state_name
+id                  
+29  soft_drink_state"
+6063.461583	1.0010000000002037	states											"   state_name
+id           
+26    warning"
+6064.462583	0.0009999999992942321	states											"        state_name
+id                
+30  clean_up_state"
+6064.464083	7.455500000000029	trials	1.0	0.0	1.0	2.0	0.0	0.0	0.0	r	1.0	 	
+6064.464083	7.455500000000029	states											"   state_name
+id           
+0     state_0"
+6064.464083	0.016000000000531145	states											"          state_name
+id                  
+1   sending_trialnum"
+6064.480083	0.00951600000007602	states											"           state_name
+id                   
+3   clean_sound_state"
+6064.489599	0.0014919999994162936	states											"   state_name
+id           
+4         iti"
+6064.491091	0.5529919999999038	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6065.044083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6065.045583	2.0	states											"   state_name
+id           
+9      cpoke1"
+6067.045583	0.011502999999720487	states											"           state_name
+id                   
+13  center_2_side_gap"
+6067.057086	0.8584980000005089	states											"        state_name
+id                
+17  wait_for_spoke"
+6067.915584	0.0004989999997633277	states											"      state_name
+id              
+23  right_reward"
+6067.916083	2.000500000000102	states											"   state_name
+id           
+24  hit_state"
+6069.916583	1.0010019999999713	states											"          state_name
+id                  
+29  soft_drink_state"
+6070.917585	1.0009979999995267	states											"   state_name
+id           
+26    warning"
+6071.918583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+6071.920083	9.647500000000036	trials	1.0	0.0	1.0	2.0004900000003545	0.0	0.0	0.0	r	1.0	a	
+6071.920083	9.647500000000036	states											"   state_name
+id           
+0     state_0"
+6071.920083	0.016005999999833875	states											"          state_name
+id                  
+1   sending_trialnum"
+6071.936089	0.00949399999990419	states											"           state_name
+id                   
+3   clean_sound_state"
+6071.945583	0.0015050000001792796	states											"   state_name
+id           
+4         iti"
+6071.947088	0.5769950000003519	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6072.524083	0.0015159999993556994	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6072.525599	2.0004900000003545	states											"   state_name
+id           
+9      cpoke1"
+6074.526089	0.011494999999740685	states											"           state_name
+id                   
+13  center_2_side_gap"
+6074.537584	1.0264990000005128	states											"        state_name
+id                
+17  wait_for_spoke"
+6075.564083	0.0005059999994045938	states											"      state_name
+id              
+23  right_reward"
+6075.564589	2.0005010000004404	states											"   state_name
+id           
+24  hit_state"
+6077.56509	3.0005089999995107	states											"          state_name
+id                  
+29  soft_drink_state"
+6080.565599	1.0009840000002441	states											"   state_name
+id           
+26    warning"
+6081.566583	0.0010000000002037268	states											"        state_name
+id                
+30  clean_up_state"
+6081.568083	8.045006999999714	trials	1.0	0.0	-1.0	2.0004879999996774	0.0	0.0	0.0	l	-1.0	t	
+6081.568083	8.045006999999714	states											"   state_name
+id           
+0     state_0"
+6081.568083	0.01599999999962165	states											"          state_name
+id                  
+1   sending_trialnum"
+6081.584083	0.009500000000116415	states											"           state_name
+id                   
+3   clean_sound_state"
+6081.593583	0.0015060000005178154	states											"   state_name
+id           
+4         iti"
+6081.595089	0.32649399999991147	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6081.921583	0.0015149999999266583	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6081.923098	2.0004879999996774	states											"   state_name
+id           
+9      cpoke1"
+6083.923586	0.011504000000059023	states											"           state_name
+id                   
+13  center_2_side_gap"
+6083.93509	0.993492999999944	states											"        state_name
+id                
+17  wait_for_spoke"
+6084.928583	0.0005069999997431296	states											"     state_name
+id             
+22  left_reward"
+6084.92909	2.0	states											"   state_name
+id           
+24  hit_state"
+6086.92909	1.6820000000006985	states											"          state_name
+id                  
+29  soft_drink_state"
+6088.61109	1.000992999999653	states											"   state_name
+id           
+26    warning"
+6089.612083	0.001006999999844993	states											"        state_name
+id                
+30  clean_up_state"
+6089.613599	8.861487999999554	trials	1.0	0.0	-1.0	2.000495000000228	0.0	0.0	0.0	l	-1.0	 	
+6089.613599	8.861487999999554	states											"   state_name
+id           
+0     state_0"
+6089.613599	0.01598699999976816	states											"          state_name
+id                  
+1   sending_trialnum"
+6089.629586	0.00950600000032864	states											"           state_name
+id                   
+3   clean_sound_state"
+6089.639092	0.0014909999999872525	states											"   state_name
+id           
+4         iti"
+6089.640583	0.09349999999994907	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6089.734083	0.001504999999269785	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6089.735588	2.000495000000228	states											"   state_name
+id           
+9      cpoke1"
+6091.736083	0.011010000000169384	states											"           state_name
+id                   
+13  center_2_side_gap"
+6091.747093	0.8484900000003108	states											"        state_name
+id                
+17  wait_for_spoke"
+6092.595583	0.0005000000001018634	states											"     state_name
+id             
+22  left_reward"
+6092.596083	2.0005059999994046	states											"   state_name
+id           
+24  hit_state"
+6094.596589	2.8769940000001952	states											"          state_name
+id                  
+29  soft_drink_state"
+6097.473583	1.0005000000001019	states											"   state_name
+id           
+26    warning"
+6098.474083	0.0010039999997388804	states											"        state_name
+id                
+30  clean_up_state"
+6098.475589	7.768500000000131	trials	1.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	1	
+6098.475589	7.768500000000131	states											"   state_name
+id           
+0     state_0"
+6098.475589	0.01599400000031892	states											"          state_name
+id                  
+1   sending_trialnum"
+6098.491583	0.009509000000434753	states											"           state_name
+id                   
+3   clean_sound_state"
+6098.501092	0.0014909999999872525	states											"   state_name
+id           
+4         iti"
+6098.502583	0.29450699999961216	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6098.79709	0.0014929999997548293	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6098.798583	2.0	states											"   state_name
+id           
+9      cpoke1"
+6100.798583	0.011005000000295695	states											"           state_name
+id                   
+13  center_2_side_gap"
+6100.809588	0.9389949999995224	states											"        state_name
+id                
+17  wait_for_spoke"
+6101.748583	0.0005049999999755528	states											"      state_name
+id              
+23  right_reward"
+6101.749088	2.000011000000086	states											"   state_name
+id           
+24  hit_state"
+6103.749099	1.4929930000007516	states											"          state_name
+id                  
+29  soft_drink_state"
+6105.242092	1.0009949999994205	states											"   state_name
+id           
+26    warning"
+6106.243087	0.0010019999999713036	states											"        state_name
+id                
+30  clean_up_state"
+6106.244599	7.442000000000007	trials	1.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	1	
+6106.244599	7.442000000000007	states											"   state_name
+id           
+0     state_0"
+6106.244599	0.01598400000057154	states											"          state_name
+id                  
+1   sending_trialnum"
+6106.260583	0.009500999999545456	states											"           state_name
+id                   
+3   clean_sound_state"
+6106.270084	0.001006000000415952	states											"   state_name
+id           
+4         iti"
+6106.27109	0.326998999999887	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6106.598089	0.001494000000093365	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6106.599583	2.0	states											"   state_name
+id           
+9      cpoke1"
+6108.599583	0.011015999999472115	states											"           state_name
+id                   
+13  center_2_side_gap"
+6108.610599	0.6939840000004551	states											"        state_name
+id                
+17  wait_for_spoke"
+6109.304583	0.0005069999997431296	states											"      state_name
+id              
+23  right_reward"
+6109.30509	2.00000799999998	states											"   state_name
+id           
+24  hit_state"
+6111.305098	1.3795010000003458	states											"          state_name
+id                  
+29  soft_drink_state"
+6112.684599	1.0009840000002441	states											"   state_name
+id           
+26    warning"
+6113.685583	0.001015999999253836	states											"        state_name
+id                
+30  clean_up_state"
+6113.687102	9.026480999999876	trials	1.0	1.0	1.0			0.0	0.0	r	1.0	:	
+6113.687102	9.026480999999876	states											"   state_name
+id           
+0     state_0"
+6113.687102	0.015988000000106695	states											"          state_name
+id                  
+1   sending_trialnum"
+6113.70309	0.00949300000047515	states											"           state_name
+id                   
+3   clean_sound_state"
+6113.712583	0.0010059999995064572	states											"   state_name
+id           
+4         iti"
+6113.713589	0.48499400000036985	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6114.198583	0.0015009999997346313	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6114.200084	0.2090070000003834	states											"   state_name
+id           
+9      cpoke1"
+6114.409091	0.20099199999913253	states											"        state_name
+id                
+12  temp_violation"
+6114.610083	0.0015000000003055902	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6114.611583	2.0000049999998737	states											"   state_name
+id           
+9      cpoke1"
+6116.611588	0.011502000000291446	states											"           state_name
+id                   
+13  center_2_side_gap"
+6116.62309	0.923493000000235	states											"        state_name
+id                
+17  wait_for_spoke"
+6117.546583	0.0005149999997229315	states											"      state_name
+id              
+23  right_reward"
+6117.547098	2.0004849999995713	states											"   state_name
+id           
+24  hit_state"
+6119.547583	2.1640000000006694	states											"          state_name
+id                  
+29  soft_drink_state"
+6121.711583	1.0010000000002037	states											"   state_name
+id           
+26    warning"
+6122.712583	0.0009999999992942321	states											"        state_name
+id                
+30  clean_up_state"
+6122.714099	88.65299500000037	trials	1.0	1.0	-2.0			0.0	0.0	l	-2.0	4	
+6122.714099	88.65299500000037	states											"   state_name
+id           
+0     state_0"
+6122.714099	0.015991000000212807	states											"          state_name
+id                  
+1   sending_trialnum"
+6122.73009	0.009492999999565654	states											"           state_name
+id                   
+3   clean_sound_state"
+6122.739583	0.0015030000004117028	states											"   state_name
+id           
+4         iti"
+6122.741086	75.53951299999972	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6198.280599	0.0014840000003459863	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6198.282083	1.8345159999998941	states											"   state_name
+id           
+9      cpoke1"
+6200.116599	0.20098799999959738	states											"        state_name
+id                
+12  temp_violation"
+6200.317587	0.7249960000008286	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6201.042583	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6201.044083	1.5145000000002256	states											"   state_name
+id           
+9      cpoke1"
+6202.558583	0.20100000000002183	states											"        state_name
+id                
+12  temp_violation"
+6202.759583	0.0015110000003915047	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6202.761094	0.3949899999997797	states											"   state_name
+id           
+9      cpoke1"
+6203.156084	0.20100600000023405	states											"        state_name
+id                
+12  temp_violation"
+6203.35709	1.5060129999992569	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6204.863103	0.001479999999901338	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6204.864583	2.0	states											"   state_name
+id           
+9      cpoke1"
+6206.864583	0.011500000000523869	states											"           state_name
+id                   
+13  center_2_side_gap"
+6206.876083	0.4870089999994889	states											"        state_name
+id                
+17  wait_for_spoke"
+6207.363092	0.0004910000006930204	states											"     state_name
+id             
+22  left_reward"
+6207.363583	2.000500000000102	states											"   state_name
+id           
+24  hit_state"
+6209.364083	1.0010089999996126	states											"          state_name
+id                  
+29  soft_drink_state"
+6210.365092	1.0009909999998854	states											"   state_name
+id           
+26    warning"
+6211.366083	0.0010110000002896413	states											"        state_name
+id                
+30  clean_up_state"
+6211.367586	6.655518999999913	trials	1.0	0.0	2.0	2.0	0.0	0.0	0.0	r	2.0	1	
+6211.367586	6.655518999999913	states											"   state_name
+id           
+0     state_0"
+6211.367586	0.015996999999515538	states											"          state_name
+id                  
+1   sending_trialnum"
+6211.383583	0.009503000000222528	states											"           state_name
+id                   
+3   clean_sound_state"
+6211.393086	0.0014970000001994777	states											"   state_name
+id           
+4         iti"
+6211.394583	0.18800000000010186	states											"         state_name
+id                 
+6   wait_for_cpoke1"
+6211.582583	0.0014999999993960955	states											"             state_name
+id                     
+8   play_stimulus_sound"
+6211.584083	2.0	states											"   state_name
+id           
+9      cpoke1"
+6213.584083	0.01100600000063423	states											"           state_name
+id                   
+13  center_2_side_gap"
+6213.595089	0.4244939999998678	states											"        state_name
+id                
+17  wait_for_spoke"
+6214.019583	0.0005000000001018634	states											"      state_name
+id              
+23  right_reward"
+6214.020083	2.000500000000102	states											"   state_name
+id           
+24  hit_state"
+6216.020583	1.0009999999992942	states											"          state_name
+id                  
+29  soft_drink_state"
+6217.021583	1.000506000000314	states											"   state_name
+id           
+26    warning"
+6218.022089	0.0010160000001633307	states											"        state_name
+id                
+30  clean_up_state"
