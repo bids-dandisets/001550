@@ -1,0 +1,63 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "ProAnti3_hit_history": {
+        "Description": "no description"
+    },
+    "ProAnti3_sides_history": {
+        "Description": "no description"
+    },
+    "ProAnti3_psych_history": {
+        "Description": "no description"
+    },
+    "ProAnti3_loc_history": {
+        "Description": "no description"
+    },
+    "ProAnti3_mem_history": {
+        "Description": "no description"
+    },
+    "ProAnti3_free_history": {
+        "Description": "no description"
+    },
+    "StimulatorSection_stimulator_history": {
+        "Description": "no description"
+    },
+    "MaskSection_mask_history": {
+        "Description": "no description"
+    },
+    "AntibiasSection_LocalHitHistory": {
+        "Description": "no description"
+    },
+    "AntibiasSection_LocalSidesHistory": {
+        "Description": "no description"
+    },
+    "AntibiasSection_LocalLocHistory": {
+        "Description": "no description"
+    },
+    "state_type": {
+        "Description": "The state type"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file.",
+            "states": "The 'states' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial",
+            "states": "Time-interval"
+        }
+    },
+    "trials": {
+        "Description": "Contains the start and stop times of each trial in the task."
+    },
+    "states": {
+        "Description": "Contains the start and stop times of each state in the task."
+    }
+}

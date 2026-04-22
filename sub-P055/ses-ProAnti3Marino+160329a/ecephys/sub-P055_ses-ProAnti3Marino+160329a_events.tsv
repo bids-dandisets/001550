@@ -1,0 +1,1668 @@
+onset	duration	nwb_table	ProAnti3Marino_hit_history	ProAnti3Marino_sides_history	ProAnti3Marino_psych_history	ProAnti3Marino_loc_history	ProAnti3Marino_mem_history	ProAnti3Marino_free_history	StimulatorSection_stimulator_history	MaskSection_mask_history	AntibiasSection_LocalHitHistory	AntibiasSection_LocalSidesHistory	AntibiasSection_LocalLocHistory	state_type
+660.404922	129.1834849999999	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+660.404922	129.1834849999999	states												"   state_name
+id           
+0     state_0"
+660.404922	0.016000999999960186	states												"          state_name
+id                  
+1   sending_trialnum"
+660.420923	55.18648399999995	states												"      state_name
+id              
+3   wait_for_cin"
+715.607407	1.0	states												"   state_name
+id           
+4     context"
+716.607407	0.00100000000009004	states												"   state_name
+id           
+6       csgap"
+716.608407	1.000509999999963	states												"   state_name
+id           
+11    stim_on"
+717.608917	0.001500999999962005	states												"   state_name
+id           
+12   stim_off"
+717.610418	65.71098900000004	states												"        state_name
+id                
+13  wait_for_spoke"
+783.321407	0.0005039999999780775	states												"             state_name
+id                     
+15  soff_reward_chooser"
+783.321911	0.04300200000000132	states												"         state_name
+id                 
+16  reward_big_soff"
+783.364913	0.22749399999997877	states												"         state_name
+id                 
+23  post_reward_off"
+783.592407	2.9954999999999927	states												"         state_name
+id                 
+24  soft_drink_time"
+786.587907	0.0004999999999881766	states												"    state_name
+id            
+25  warndanger"
+786.588407	3.0	states												"            state_name
+id                    
+26  warndanger_warning"
+789.588917	118.10448999999994	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+789.588917	118.10448999999994	states												"   state_name
+id           
+0     state_0"
+789.588917	0.01599799999996776	states												"          state_name
+id                  
+1   sending_trialnum"
+789.604915	59.70349199999998	states												"      state_name
+id              
+3   wait_for_cin"
+849.308407	1.0000009999999975	states												"   state_name
+id           
+4     context"
+850.308408	0.0014989999999670545	states												"   state_name
+id           
+6       csgap"
+850.309907	1.0000040000001036	states												"   state_name
+id           
+11    stim_on"
+851.309911	0.0010059999999612046	states												"   state_name
+id           
+12   stim_off"
+851.310917	51.67599499999994	states												"        state_name
+id                
+13  wait_for_spoke"
+902.986912	0.0004950000000008004	states												"             state_name
+id                     
+15  soff_reward_chooser"
+902.987407	0.043000000000006366	states												"         state_name
+id                 
+16  reward_big_soff"
+903.030407	0.20450500000004013	states												"         state_name
+id                 
+23  post_reward_off"
+903.234912	1.4574949999999944	states												"         state_name
+id                 
+24  soft_drink_time"
+904.692407	0.000509999999962929	states												"    state_name
+id            
+25  warndanger"
+904.692917	3.0004900000000134	states												"            state_name
+id                    
+26  warndanger_warning"
+907.693907	102.46050000000002	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+907.693907	102.46050000000002	states												"   state_name
+id           
+0     state_0"
+907.693907	0.016000000000076398	states												"          state_name
+id                  
+1   sending_trialnum"
+907.709907	66.81849999999997	states												"      state_name
+id              
+3   wait_for_cin"
+974.528407	1.000507999999968	states												"   state_name
+id           
+4     context"
+975.528915	0.0014919999999847278	states												"   state_name
+id           
+6       csgap"
+975.530407	1.0005100000000766	states												"   state_name
+id           
+11    stim_on"
+976.530917	0.0014899999999897773	states												"   state_name
+id           
+12   stim_off"
+976.532407	25.67850999999996	states												"        state_name
+id                
+13  wait_for_spoke"
+1002.210917	0.0004900000000134241	states												"             state_name
+id                     
+15  soff_reward_chooser"
+1002.211407	0.043000000000006366	states												"         state_name
+id                 
+16  reward_big_soff"
+1002.254407	0.23550000000000182	states												"         state_name
+id                 
+23  post_reward_off"
+1002.489907	4.663999999999987	states												"         state_name
+id                 
+24  soft_drink_time"
+1007.153907	0.0004999999999881766	states												"    state_name
+id            
+25  warndanger"
+1007.154407	3.0	states												"            state_name
+id                    
+26  warndanger_warning"
+1010.154918	118.12748899999997	trials	0.0	r	2.0	p	1.0	r	0.0	0.0	0.0	r	p	
+1010.154918	118.12748899999997	states												"   state_name
+id           
+0     state_0"
+1010.154918	0.016002000000071348	states												"          state_name
+id                  
+1   sending_trialnum"
+1010.17092	93.94049599999994	states												"      state_name
+id              
+3   wait_for_cin"
+1104.111416	1.0005020000000968	states												"   state_name
+id           
+4     context"
+1105.111918	0.001488999999992302	states												"   state_name
+id           
+6       csgap"
+1105.113407	1.0	states												"   state_name
+id           
+11    stim_on"
+1106.113407	0.0010009999998601415	states												"   state_name
+id           
+12   stim_off"
+1106.114408	17.166999000000033	states												"        state_name
+id                
+13  wait_for_spoke"
+1123.281407	5.000999999999976	states												"     state_name
+id             
+28  error_state"
+1128.282915	35.15999800000009	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+1128.282915	35.15999800000009	states												"   state_name
+id           
+0     state_0"
+1128.282915	0.015998000000081447	states												"          state_name
+id                  
+1   sending_trialnum"
+1128.298913	13.228493999999955	states												"      state_name
+id              
+3   wait_for_cin"
+1141.527407	1.0	states												"   state_name
+id           
+4     context"
+1142.527407	0.0010009999998601415	states												"   state_name
+id           
+6       csgap"
+1142.528408	1.0004989999999907	states												"   state_name
+id           
+11    stim_on"
+1143.528907	0.0015000000000782165	states												"   state_name
+id           
+12   stim_off"
+1143.530407	11.096001000000115	states												"        state_name
+id                
+13  wait_for_spoke"
+1154.626408	0.0005009999999856518	states												"             state_name
+id                     
+15  soff_reward_chooser"
+1154.626909	0.04299900000000889	states												"         state_name
+id                 
+16  reward_big_soff"
+1154.669908	0.13901799999985087	states												"         state_name
+id                 
+23  post_reward_off"
+1154.808926	5.6329860000000735	states												"         state_name
+id                 
+24  soft_drink_time"
+1160.441912	0.0004959999998845888	states												"    state_name
+id            
+25  warndanger"
+1160.442408	3.000505000000203	states												"            state_name
+id                    
+26  warndanger_warning"
+1163.443408	104.07049899999993	trials	0.0	r	2.0	p	1.0	r	0.0	0.0	0.0	r	p	
+1163.443408	104.07049899999993	states												"   state_name
+id           
+0     state_0"
+1163.443408	0.015999999999849024	states												"          state_name
+id                  
+1   sending_trialnum"
+1163.459408	94.40799900000002	states												"      state_name
+id              
+3   wait_for_cin"
+1257.867407	1.0005040000000918	states												"   state_name
+id           
+4     context"
+1258.867911	0.0010019999999713036	states												"   state_name
+id           
+6       csgap"
+1258.868913	1.000001999999995	states												"   state_name
+id           
+11    stim_on"
+1259.868915	0.001491999999871041	states												"   state_name
+id           
+12   stim_off"
+1259.870407	2.642513000000008	states												"        state_name
+id                
+13  wait_for_spoke"
+1262.51292	5.000987000000123	states												"     state_name
+id             
+28  error_state"
+1267.514407	68.82200000000012	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+1267.514407	68.82200000000012	states												"   state_name
+id           
+0     state_0"
+1267.514407	0.016000000000076398	states												"          state_name
+id                  
+1   sending_trialnum"
+1267.530407	60.86550000000011	states												"      state_name
+id              
+3   wait_for_cin"
+1328.395907	1.00000399999999	states												"   state_name
+id           
+4     context"
+1329.395911	0.0015059999998356943	states												"   state_name
+id           
+6       csgap"
+1329.397417	0.9369900000001508	states												"   state_name
+id           
+11    stim_on"
+1330.334407	0.0005009999999856518	states												"            state_name
+id                    
+14  son_reward_chooser"
+1330.334908	0.04299900000000889	states												"        state_name
+id                
+17  reward_big_son"
+1330.377907	0.9574999999999818	states												"        state_name
+id                
+22  post_reward_on"
+1331.335407	2.0	states												"         state_name
+id                 
+23  post_reward_off"
+1333.335407	0.0005039999998643907	states												"    state_name
+id            
+25  warndanger"
+1333.335911	3.000496000000112	states												"            state_name
+id                    
+26  warndanger_warning"
+1336.336916	75.37649099999999	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+1336.336916	75.37649099999999	states												"   state_name
+id           
+0     state_0"
+1336.336916	0.015996999999970285	states												"          state_name
+id                  
+1   sending_trialnum"
+1336.352913	67.32400700000017	states												"      state_name
+id              
+3   wait_for_cin"
+1403.67692	1.0004869999997936	states												"   state_name
+id           
+4     context"
+1404.677407	0.0010010000000875152	states												"   state_name
+id           
+6       csgap"
+1404.678408	1.0005080000000817	states												"   state_name
+id           
+11    stim_on"
+1405.678916	0.0014909999999872525	states												"   state_name
+id           
+12   stim_off"
+1405.680407	0.3450000000000273	states												"        state_name
+id                
+13  wait_for_spoke"
+1406.025407	0.0004999999998744897	states												"             state_name
+id                     
+15  soff_reward_chooser"
+1406.025907	0.04300699999998869	states												"         state_name
+id                 
+16  reward_big_soff"
+1406.068914	0.07900399999994079	states												"         state_name
+id                 
+23  post_reward_off"
+1406.147918	2.564489000000094	states												"         state_name
+id                 
+24  soft_drink_time"
+1408.712407	0.0005080000000816653	states												"    state_name
+id            
+25  warndanger"
+1408.712915	3.0004919999998947	states												"            state_name
+id                    
+26  warndanger_warning"
+1411.713907	262.293005	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+1411.713907	262.293005	states												"   state_name
+id           
+0     state_0"
+1411.713907	0.015999999999849024	states												"          state_name
+id                  
+1   sending_trialnum"
+1411.729907	254.7690130000001	states												"      state_name
+id              
+3   wait_for_cin"
+1666.49892	1.000487000000021	states												"   state_name
+id           
+4     context"
+1667.499407	0.0015069999999468564	states												"   state_name
+id           
+6       csgap"
+1667.500914	1.0004930000000058	states												"   state_name
+id           
+11    stim_on"
+1668.501407	0.0009999999999763531	states												"   state_name
+id           
+12   stim_off"
+1668.502407	0.12200600000005579	states												"        state_name
+id                
+13  wait_for_spoke"
+1668.624413	0.0005089999999654538	states												"             state_name
+id                     
+15  soff_reward_chooser"
+1668.624922	0.04298500000004424	states												"         state_name
+id                 
+16  reward_big_soff"
+1668.667907	0.1634999999998854	states												"         state_name
+id                 
+23  post_reward_off"
+1668.831407	2.1750010000000657	states												"         state_name
+id                 
+24  soft_drink_time"
+1671.006408	0.0005040000000917644	states												"    state_name
+id            
+25  warndanger"
+1671.006912	3.0	states												"            state_name
+id                    
+26  warndanger_warning"
+1674.007407	138.76250000000005	trials	0.0	r	2.0	p	1.0	r	0.0	0.0	0.0	r	p	
+1674.007407	138.76250000000005	states												"   state_name
+id           
+0     state_0"
+1674.007407	0.015999999999849024	states												"          state_name
+id                  
+1   sending_trialnum"
+1674.023407	132.20100000000002	states												"      state_name
+id              
+3   wait_for_cin"
+1806.224407	1.0000010000001112	states												"   state_name
+id           
+4     context"
+1807.224408	0.0014989999999670545	states												"   state_name
+id           
+6       csgap"
+1807.225907	0.5430129999999735	states												"   state_name
+id           
+11    stim_on"
+1807.76892	5.000987000000123	states												"     state_name
+id             
+28  error_state"
+1812.770408	180.673499	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+1812.770408	180.673499	states												"   state_name
+id           
+0     state_0"
+1812.770408	0.015998999999965235	states												"          state_name
+id                  
+1   sending_trialnum"
+1812.786407	172.22500100000002	states												"      state_name
+id              
+3   wait_for_cin"
+1985.011408	1.0005099999998492	states												"   state_name
+id           
+4     context"
+1986.011918	0.0010019999999713036	states												"   state_name
+id           
+6       csgap"
+1986.01292	0.09948700000018107	states												"   state_name
+id           
+11    stim_on"
+1986.112407	0.0005069999999705033	states												"            state_name
+id                    
+14  son_reward_chooser"
+1986.112914	0.04299300000002404	states												"        state_name
+id                
+17  reward_big_son"
+1986.155907	0.9574999999999818	states												"        state_name
+id                
+22  post_reward_on"
+1987.113407	0.21900000000005093	states												"         state_name
+id                 
+23  post_reward_off"
+1987.332407	3.1105039999999917	states												"         state_name
+id                 
+24  soft_drink_time"
+1990.442911	0.0004959999998845888	states												"    state_name
+id            
+25  warndanger"
+1990.443407	3.000500000000102	states												"            state_name
+id                    
+26  warndanger_warning"
+1993.444408	350.14051099999983	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+1993.444408	350.14051099999983	states												"   state_name
+id           
+0     state_0"
+1993.444408	0.015998999999965235	states												"          state_name
+id                  
+1   sending_trialnum"
+1993.460407	339.09701600000017	states												"      state_name
+id              
+3   wait_for_cin"
+2332.557423	1.0004839999996875	states												"   state_name
+id           
+4     context"
+2333.557907	0.0010130000000572181	states												"   state_name
+id           
+6       csgap"
+2333.55892	1.0004870000002484	states												"   state_name
+id           
+11    stim_on"
+2334.559407	0.0015009999997346313	states												"   state_name
+id           
+12   stim_off"
+2334.560908	0.8164990000000216	states												"        state_name
+id                
+13  wait_for_spoke"
+2335.377407	0.0005000000001018634	states												"             state_name
+id                     
+15  soff_reward_chooser"
+2335.377907	0.043012000000089756	states												"         state_name
+id                 
+16  reward_big_soff"
+2335.420919	0.17000000000007276	states												"         state_name
+id                 
+23  post_reward_off"
+2335.590919	4.992993999999726	states												"         state_name
+id                 
+24  soft_drink_time"
+2340.583913	0.0004939999998896383	states												"    state_name
+id            
+25  warndanger"
+2340.584407	3.0005120000000716	states												"            state_name
+id                    
+26  warndanger_warning"
+2343.585407	29.89951400000018	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+2343.585407	29.89951400000018	states												"   state_name
+id           
+0     state_0"
+2343.585407	0.016000000000076398	states												"          state_name
+id                  
+1   sending_trialnum"
+2343.601407	20.25300100000004	states												"      state_name
+id              
+3   wait_for_cin"
+2363.854408	1.0	states												"   state_name
+id           
+4     context"
+2364.854408	0.0014989999999670545	states												"   state_name
+id           
+6       csgap"
+2364.855907	0.07600000000002183	states												"   state_name
+id           
+11    stim_on"
+2364.931907	0.0004999999996471161	states												"            state_name
+id                    
+14  son_reward_chooser"
+2364.932407	0.04300000000012005	states												"        state_name
+id                
+17  reward_big_son"
+2364.975407	0.9575100000001839	states												"        state_name
+id                
+22  post_reward_on"
+2365.932917	1.2679979999998068	states												"         state_name
+id                 
+23  post_reward_off"
+2367.200915	3.2834929999999076	states												"         state_name
+id                 
+24  soft_drink_time"
+2370.484408	0.0005000000001018634	states												"    state_name
+id            
+25  warndanger"
+2370.484908	3.0000130000003082	states												"            state_name
+id                    
+26  warndanger_warning"
+2373.485407	42.26100099999985	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+2373.485407	42.26100099999985	states												"   state_name
+id           
+0     state_0"
+2373.485407	0.016000000000076398	states												"          state_name
+id                  
+1   sending_trialnum"
+2373.501407	35.1579999999999	states												"      state_name
+id              
+3   wait_for_cin"
+2408.659407	1.0	states												"   state_name
+id           
+4     context"
+2409.659407	0.0009999999997489795	states												"   state_name
+id           
+6       csgap"
+2409.660407	0.08449999999993452	states												"   state_name
+id           
+11    stim_on"
+2409.744907	0.0005000000001018634	states												"            state_name
+id                    
+14  son_reward_chooser"
+2409.745407	0.04300100000000384	states												"        state_name
+id                
+17  reward_big_son"
+2409.788408	0.957499000000098	states												"        state_name
+id                
+22  post_reward_on"
+2410.745907	2.0	states												"         state_name
+id                 
+23  post_reward_off"
+2412.745907	0.0005009999999856518	states												"    state_name
+id            
+25  warndanger"
+2412.746408	3.0	states												"            state_name
+id                    
+26  warndanger_warning"
+2415.746907	77.67100399999981	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+2415.746907	77.67100399999981	states												"   state_name
+id           
+0     state_0"
+2415.746907	0.016014999999697466	states												"          state_name
+id                  
+1   sending_trialnum"
+2415.762922	62.143994999999904	states												"      state_name
+id              
+3   wait_for_cin"
+2477.906917	1.0004900000003545	states												"   state_name
+id           
+4     context"
+2478.907407	0.001510000000052969	states												"   state_name
+id           
+6       csgap"
+2478.908917	1.0004899999998997	states												"   state_name
+id           
+11    stim_on"
+2479.909407	0.0010010000000875152	states												"   state_name
+id           
+12   stim_off"
+2479.910408	6.8189989999996214	states												"        state_name
+id                
+13  wait_for_spoke"
+2486.729407	0.0005040000000917644	states												"             state_name
+id                     
+15  soff_reward_chooser"
+2486.729911	0.04300499999999374	states												"         state_name
+id                 
+16  reward_big_soff"
+2486.772916	0.07849100000021281	states												"         state_name
+id                 
+23  post_reward_off"
+2486.851407	3.5659999999998035	states												"         state_name
+id                 
+24  soft_drink_time"
+2490.417407	0.0005000000001018634	states												"    state_name
+id            
+25  warndanger"
+2490.417907	3.00000399999999	states												"            state_name
+id                    
+26  warndanger_warning"
+2493.418408	20.74750300000005	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+2493.418408	20.74750300000005	states												"   state_name
+id           
+0     state_0"
+2493.418408	0.016000000000076398	states												"          state_name
+id                  
+1   sending_trialnum"
+2493.434408	13.355004999999892	states												"      state_name
+id              
+3   wait_for_cin"
+2506.789413	1.0004939999998896	states												"   state_name
+id           
+4     context"
+2507.789907	0.0010080000001835288	states												"   state_name
+id           
+6       csgap"
+2507.790915	0.024997999999868625	states												"   state_name
+id           
+11    stim_on"
+2507.815913	0.0004939999998896383	states												"            state_name
+id                    
+14  son_reward_chooser"
+2507.816407	0.04300000000012005	states												"        state_name
+id                
+17  reward_big_son"
+2507.859407	0.9575070000000778	states												"        state_name
+id                
+22  post_reward_on"
+2508.816914	1.8339970000001813	states												"         state_name
+id                 
+23  post_reward_off"
+2510.650911	0.5139970000000176	states												"         state_name
+id                 
+24  soft_drink_time"
+2511.164908	0.0004989999997633277	states												"    state_name
+id            
+25  warndanger"
+2511.165407	3.0005040000000918	states												"            state_name
+id                    
+26  warndanger_warning"
+2514.166407	28.438000999999986	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+2514.166407	28.438000999999986	states												"   state_name
+id           
+0     state_0"
+2514.166407	0.016006999999717664	states												"          state_name
+id                  
+1   sending_trialnum"
+2514.182414	21.324993000000177	states												"      state_name
+id              
+3   wait_for_cin"
+2535.507407	1.0000089999998636	states												"   state_name
+id           
+4     context"
+2536.507416	0.0015080000002853922	states												"   state_name
+id           
+6       csgap"
+2536.508924	0.09398399999963658	states												"   state_name
+id           
+11    stim_on"
+2536.602908	0.000499000000218075	states												"            state_name
+id                    
+14  son_reward_chooser"
+2536.603407	0.04300000000012005	states												"        state_name
+id                
+17  reward_big_son"
+2536.646407	0.9574999999999818	states												"        state_name
+id                
+22  post_reward_on"
+2537.603907	2.0	states												"         state_name
+id                 
+23  post_reward_off"
+2539.603907	0.0004999999996471161	states												"    state_name
+id            
+25  warndanger"
+2539.604407	3.0000010000003385	states												"            state_name
+id                    
+26  warndanger_warning"
+2542.604915	10.942003000000113	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+2542.604915	10.942003000000113	states												"   state_name
+id           
+0     state_0"
+2542.604915	0.015992999999980384	states												"          state_name
+id                  
+1   sending_trialnum"
+2542.620908	4.111499000000094	states												"      state_name
+id              
+3   wait_for_cin"
+2546.732407	1.0000009999998838	states												"   state_name
+id           
+4     context"
+2547.732408	0.0010000000002037268	states												"   state_name
+id           
+6       csgap"
+2547.733408	0.07699899999988702	states												"   state_name
+id           
+11    stim_on"
+2547.810407	0.0005129999999553547	states												"            state_name
+id                    
+14  son_reward_chooser"
+2547.81092	0.04298700000026656	states												"        state_name
+id                
+17  reward_big_son"
+2547.853907	0.9574999999999818	states												"        state_name
+id                
+22  post_reward_on"
+2548.811407	0.4830010000000584	states												"         state_name
+id                 
+23  post_reward_off"
+2549.294408	1.2519989999996142	states												"         state_name
+id                 
+24  soft_drink_time"
+2550.546407	0.0005100000003039895	states												"    state_name
+id            
+25  warndanger"
+2550.546917	3.000000999999884	states												"            state_name
+id                    
+26  warndanger_warning"
+2553.547407	52.80600000000004	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+2553.547407	52.80600000000004	states												"   state_name
+id           
+0     state_0"
+2553.547407	0.016000000000076398	states												"          state_name
+id                  
+1   sending_trialnum"
+2553.563407	45.760503999999855	states												"      state_name
+id              
+3   wait_for_cin"
+2599.323911	1.000496000000112	states												"   state_name
+id           
+4     context"
+2600.324407	0.0009999999997489795	states												"   state_name
+id           
+6       csgap"
+2600.325407	0.025516000000152417	states												"   state_name
+id           
+11    stim_on"
+2600.350923	0.0004840000001422595	states												"            state_name
+id                    
+14  son_reward_chooser"
+2600.351407	0.042999999999665306	states												"        state_name
+id                
+17  reward_big_son"
+2600.394407	0.9575000000004366	states												"        state_name
+id                
+22  post_reward_on"
+2601.351907	2.000499999999647	states												"         state_name
+id                 
+23  post_reward_off"
+2603.352407	0.0005080000000816653	states												"    state_name
+id            
+25  warndanger"
+2603.352915	3.000492000000122	states												"            state_name
+id                    
+26  warndanger_warning"
+2606.353907	27.57501299999967	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+2606.353907	27.57501299999967	states												"   state_name
+id           
+0     state_0"
+2606.353907	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+2606.369907	20.426500000000033	states												"      state_name
+id              
+3   wait_for_cin"
+2626.796407	1.0	states												"   state_name
+id           
+4     context"
+2627.796407	0.0015000000003055902	states												"   state_name
+id           
+6       csgap"
+2627.797907	0.12950000000000728	states												"   state_name
+id           
+11    stim_on"
+2627.927407	0.0004999999996471161	states												"            state_name
+id                    
+14  son_reward_chooser"
+2627.927907	0.04300900000043839	states												"        state_name
+id                
+17  reward_big_son"
+2627.970916	0.9574909999996635	states												"        state_name
+id                
+22  post_reward_on"
+2628.928407	2.0000010000003385	states												"         state_name
+id                 
+23  post_reward_off"
+2630.928408	0.0004999999996471161	states												"    state_name
+id            
+25  warndanger"
+2630.928908	3.0000119999999697	states												"            state_name
+id                    
+26  warndanger_warning"
+2633.929407	1084.2935079999997	trials	0.0	l	1.0	p	1.0	r	0.0	0.0	0.0	l	p	
+2633.929407	1084.2935079999997	states												"   state_name
+id           
+0     state_0"
+2633.929407	0.016000000000076398	states												"          state_name
+id                  
+1   sending_trialnum"
+2633.945407	1077.2079999999996	states												"      state_name
+id              
+3   wait_for_cin"
+3711.153407	1.0000010000003385	states												"   state_name
+id           
+4     context"
+3712.153408	0.001506000000063068	states												"   state_name
+id           
+6       csgap"
+3712.154914	1.0000079999999798	states												"   state_name
+id           
+11    stim_on"
+3713.154922	0.0014849999997750274	states												"   state_name
+id           
+12   stim_off"
+3713.156407	0.06550400000014633	states												"        state_name
+id                
+13  wait_for_spoke"
+3713.221911	5.001003999999739	states												"     state_name
+id             
+28  error_state"
+3718.223407	49.6244999999999	trials	0.0	l	1.0	p	1.0	r	0.0	0.0	0.0	l	p	
+3718.223407	49.6244999999999	states												"   state_name
+id           
+0     state_0"
+3718.223407	0.016000000000076398	states												"          state_name
+id                  
+1   sending_trialnum"
+3718.239407	41.428499999999985	states												"      state_name
+id              
+3   wait_for_cin"
+3759.667907	1.0005000000001019	states												"   state_name
+id           
+4     context"
+3760.668407	0.0014999999998508429	states												"   state_name
+id           
+6       csgap"
+3760.669907	1.0000089999998636	states												"   state_name
+id           
+11    stim_on"
+3761.669916	0.0010030000003098394	states												"   state_name
+id           
+12   stim_off"
+3761.670919	1.1759999999999309	states												"        state_name
+id                
+13  wait_for_spoke"
+3762.846919	5.000987999999779	states												"     state_name
+id             
+28  error_state"
+3767.848408	1626.407499	trials	1.0	l	1.0	p	1.0	r	0.0	0.0	1.0	l	p	
+3767.848408	1626.407499	states												"   state_name
+id           
+0     state_0"
+3767.848408	0.01599900000019261	states												"          state_name
+id                  
+1   sending_trialnum"
+3767.864407	1378.2505009999995	states												"      state_name
+id              
+3   wait_for_cin"
+5146.114908	1.0000120000004245	states												"   state_name
+id           
+4     context"
+5147.11492	0.00148799999988114	states												"   state_name
+id           
+6       csgap"
+5147.116408	1.000514999999723	states												"   state_name
+id           
+11    stim_on"
+5148.116923	0.0014840000003459863	states												"   state_name
+id           
+12   stim_off"
+5148.118407	240.64850399999978	states												"        state_name
+id                
+13  wait_for_spoke"
+5388.766911	0.0004960000005667098	states												"             state_name
+id                     
+15  soff_reward_chooser"
+5388.767407	0.03849999999965803	states												"         state_name
+id                 
+16  reward_big_soff"
+5388.805907	0.18800000000010186	states												"         state_name
+id                 
+23  post_reward_off"
+5388.993907	2.2610050000002957	states												"         state_name
+id                 
+24  soft_drink_time"
+5391.254912	0.0004949999993186793	states												"    state_name
+id            
+25  warndanger"
+5391.255407	3.000500000000102	states												"            state_name
+id                    
+26  warndanger_warning"
+5394.256407	372.4345170000006	trials	1.0	l	1.0	p	1.0	r	0.0	0.0	1.0	l	p	
+5394.256407	372.4345170000006	states												"   state_name
+id           
+0     state_0"
+5394.256407	0.016000000000531145	states												"          state_name
+id                  
+1   sending_trialnum"
+5394.272407	18.040508999999474	states												"      state_name
+id              
+3   wait_for_cin"
+5412.312916	1.0004909999997835	states												"   state_name
+id           
+4     context"
+5413.313407	0.0010000000002037268	states												"   state_name
+id           
+6       csgap"
+5413.314407	1.0000010000003385	states												"   state_name
+id           
+11    stim_on"
+5414.314408	0.0014989999999670545	states												"   state_name
+id           
+12   stim_off"
+5414.315907	344.19800399999986	states												"        state_name
+id                
+13  wait_for_spoke"
+5758.513911	0.0004980000003342866	states												"             state_name
+id                     
+15  soff_reward_chooser"
+5758.514409	0.03850999999940541	states												"         state_name
+id                 
+16  reward_big_soff"
+5758.552919	0.26548800000000483	states												"         state_name
+id                 
+23  post_reward_off"
+5758.818407	4.872001000000637	states												"         state_name
+id                 
+24  soft_drink_time"
+5763.690408	0.0005079999991721706	states												"    state_name
+id            
+25  warndanger"
+5763.690916	3.0000080000008893	states												"            state_name
+id                    
+26  warndanger_warning"
+5766.691407	54.83649999999943	trials	0.0	l	1.0	p	1.0	r	0.0	0.0	0.0	l	p	
+5766.691407	54.83649999999943	states												"   state_name
+id           
+0     state_0"
+5766.691407	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+5766.707407	47.64050000000043	states												"      state_name
+id              
+3   wait_for_cin"
+5814.347907	1.0005049999999756	states												"   state_name
+id           
+4     context"
+5815.348412	0.0014949999995224061	states												"   state_name
+id           
+6       csgap"
+5815.349907	1.0	states												"   state_name
+id           
+11    stim_on"
+5816.349907	0.0010099999999511056	states												"   state_name
+id           
+12   stim_off"
+5816.350917	0.17599800000061805	states												"        state_name
+id                
+13  wait_for_spoke"
+5816.526915	5.000991999999314	states												"     state_name
+id             
+28  error_state"
+5821.528407	11.844514999999774	trials	0.0	l	1.0	p	1.0	r	0.0	0.0	0.0	l	p	
+5821.528407	11.844514999999774	states												"   state_name
+id           
+0     state_0"
+5821.528407	0.016000000000531145	states												"          state_name
+id                  
+1   sending_trialnum"
+5821.544407	4.862506999999823	states												"      state_name
+id              
+3   wait_for_cin"
+5826.406914	1.000000999999429	states												"   state_name
+id           
+4     context"
+5827.406915	0.0010030000003098394	states												"   state_name
+id           
+6       csgap"
+5827.407918	0.9639889999998559	states												"   state_name
+id           
+11    stim_on"
+5828.371907	5.001014999999825	states												"     state_name
+id             
+28  error_state"
+5833.373407	12.078504000000066	trials	1.0	l	1.0	p	1.0	r	0.0	0.0	1.0	l	p	
+5833.373407	12.078504000000066	states												"   state_name
+id           
+0     state_0"
+5833.373407	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+5833.389407	2.8145000000004075	states												"      state_name
+id              
+3   wait_for_cin"
+5836.203907	1.0	states												"   state_name
+id           
+4     context"
+5837.203907	0.0010110000002896413	states												"   state_name
+id           
+6       csgap"
+5837.204918	0.19600099999934173	states												"   state_name
+id           
+11    stim_on"
+5837.400919	0.00048800000058690784	states												"            state_name
+id                    
+14  son_reward_chooser"
+5837.401407	0.03849999999965803	states												"        state_name
+id                
+17  reward_big_son"
+5837.439907	0.9620000000004438	states												"        state_name
+id                
+22  post_reward_on"
+5838.401907	0.10649999999986903	states												"         state_name
+id                 
+23  post_reward_off"
+5838.508407	3.94251499999973	states												"         state_name
+id                 
+24  soft_drink_time"
+5842.450922	0.0004849999995713006	states												"    state_name
+id            
+25  warndanger"
+5842.451407	3.0005040000005465	states												"            state_name
+id                    
+26  warndanger_warning"
+5845.452407	17.168500000000677	trials	0.0	l	1.0	p	1.0	r	0.0	0.0	0.0	l	p	
+5845.452407	17.168500000000677	states												"   state_name
+id           
+0     state_0"
+5845.452407	0.016000000000531145	states												"          state_name
+id                  
+1   sending_trialnum"
+5845.468407	9.411000000000058	states												"      state_name
+id              
+3   wait_for_cin"
+5854.879407	1.0004999999991924	states												"   state_name
+id           
+4     context"
+5855.879907	0.0010000000002037268	states												"   state_name
+id           
+6       csgap"
+5855.880907	1.0000049999998737	states												"   state_name
+id           
+11    stim_on"
+5856.880912	0.0014950000004319008	states												"   state_name
+id           
+12   stim_off"
+5856.882407	0.7375000000001819	states												"        state_name
+id                
+13  wait_for_spoke"
+5857.619907	5.001000000000204	states												"     state_name
+id             
+28  error_state"
+5862.621407	6.685500999999931	trials	0.0	l	1.0	p	1.0	r	0.0	0.0	0.0	l	p	
+5862.621407	6.685500999999931	states												"   state_name
+id           
+0     state_0"
+5862.621407	0.016000000000531145	states												"          state_name
+id                  
+1   sending_trialnum"
+5862.637407	0.30499999999938154	states												"      state_name
+id              
+3   wait_for_cin"
+5862.942407	1.0	states												"   state_name
+id           
+4     context"
+5863.942407	0.0015000000003055902	states												"   state_name
+id           
+6       csgap"
+5863.943907	0.36200000000008004	states												"   state_name
+id           
+11    stim_on"
+5864.305907	5.001000999999633	states												"     state_name
+id             
+28  error_state"
+5869.307407	16.25750699999935	trials	1.0	l	1.0	p	1.0	r	0.0	0.0	1.0	l	p	
+5869.307407	16.25750699999935	states												"   state_name
+id           
+0     state_0"
+5869.307407	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+5869.323407	8.683500000000095	states												"      state_name
+id              
+3   wait_for_cin"
+5878.006907	1.0000129999998535	states												"   state_name
+id           
+4     context"
+5879.00692	0.0014950000004319008	states												"   state_name
+id           
+6       csgap"
+5879.008415	0.5539920000001075	states												"   state_name
+id           
+11    stim_on"
+5879.562407	0.0005169999994905083	states												"            state_name
+id                    
+14  son_reward_chooser"
+5879.562924	0.038483000000269385	states												"        state_name
+id                
+17  reward_big_son"
+5879.601407	0.9619999999995343	states												"        state_name
+id                
+22  post_reward_on"
+5880.563407	2.000500000000102	states												"         state_name
+id                 
+23  post_reward_off"
+5882.563907	0.0005000000001018634	states												"    state_name
+id            
+25  warndanger"
+5882.564407	3.000506999999743	states												"            state_name
+id                    
+26  warndanger_warning"
+5885.565407	194.0550000000003	trials	0.0	l	1.0	p	1.0	r	0.0	0.0	0.0	l	p	
+5885.565407	194.0550000000003	states												"   state_name
+id           
+0     state_0"
+5885.565407	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+5885.581407	186.14950700000009	states												"      state_name
+id              
+3   wait_for_cin"
+6071.730914	1.0000070000005508	states												"   state_name
+id           
+4     context"
+6072.730921	0.0014860000001135631	states												"   state_name
+id           
+6       csgap"
+6072.732407	1.000000999999429	states												"   state_name
+id           
+11    stim_on"
+6073.732408	0.0014989999999670545	states												"   state_name
+id           
+12   stim_off"
+6073.733907	0.885508999999729	states												"        state_name
+id                
+13  wait_for_spoke"
+6074.619416	5.000991000000795	states												"     state_name
+id             
+28  error_state"
+6079.620907	10.387503999999353	trials	0.0	l	1.0	p	1.0	r	0.0	0.0	0.0	l	p	
+6079.620907	10.387503999999353	states												"   state_name
+id           
+0     state_0"
+6079.620907	0.016010999999707565	states												"          state_name
+id                  
+1   sending_trialnum"
+6079.636918	1.2294890000002852	states												"      state_name
+id              
+3   wait_for_cin"
+6080.866407	1.000000999999429	states												"   state_name
+id           
+4     context"
+6081.866408	0.0015089999997144332	states												"   state_name
+id           
+6       csgap"
+6081.867917	1.0004990000006728	states												"   state_name
+id           
+11    stim_on"
+6082.868416	0.0014999999993960955	states												"   state_name
+id           
+12   stim_off"
+6082.869916	2.1374910000004093	states												"        state_name
+id                
+13  wait_for_spoke"
+6085.007407	5.001003999999739	states												"     state_name
+id             
+28  error_state"
+6090.008907	1404.6239999999998	trials	1.0	l	1.0	p	1.0	r	0.0	0.0	1.0	l	p	
+6090.008907	1404.6239999999998	states												"   state_name
+id           
+0     state_0"
+6090.008907	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+6090.024907	1303.7025000000003	states												"      state_name
+id              
+3   wait_for_cin"
+7393.727407	1.0	states												"   state_name
+id           
+4     context"
+7394.727407	0.0009999999992942321	states												"   state_name
+id           
+6       csgap"
+7394.728407	1.0005150000006324	states												"   state_name
+id           
+11    stim_on"
+7395.728922	0.0014849999997750274	states												"   state_name
+id           
+12   stim_off"
+7395.730407	91.8580009999996	states												"        state_name
+id                
+13  wait_for_spoke"
+7487.588408	0.0005020000007789349	states												"             state_name
+id                     
+15  soff_reward_chooser"
+7487.58891	0.03849699999955192	states												"         state_name
+id                 
+16  reward_big_soff"
+7487.627407	1.5230060000003505	states												"         state_name
+id                 
+23  post_reward_off"
+7489.150413	2.481493999999657	states												"         state_name
+id                 
+24  soft_drink_time"
+7491.631907	0.0005010000004403992	states												"    state_name
+id            
+25  warndanger"
+7491.632408	3.0004989999997633	states												"            state_name
+id                    
+26  warndanger_warning"
+7494.633407	1617.4160000000002	trials	0.0	l	1.0	p	1.0	r	0.0	0.0	0.0	l	p	
+7494.633407	1617.4160000000002	states												"   state_name
+id           
+0     state_0"
+7494.633407	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+7494.649407	1610.1079999999993	states												"      state_name
+id              
+3   wait_for_cin"
+9104.757407	1.0	states												"   state_name
+id           
+4     context"
+9105.757407	0.0010010000005422626	states												"   state_name
+id           
+6       csgap"
+9105.758408	1.0005130000008648	states												"   state_name
+id           
+11    stim_on"
+9106.758921	0.0014859999992040684	states												"   state_name
+id           
+12   stim_off"
+9106.760407	0.2880010000008042	states												"        state_name
+id                
+13  wait_for_spoke"
+9107.048408	5.000998999999865	states												"     state_name
+id             
+28  error_state"
+9112.049907	15.652500999998665	trials	1.0	l	1.0	p	1.0	r	0.0	0.0	1.0	l	p	
+9112.049907	15.652500999998665	states												"   state_name
+id           
+0     state_0"
+9112.049907	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+9112.065907	0.1685029999989638	states												"      state_name
+id              
+3   wait_for_cin"
+9112.23441	1.0004990000015823	states												"   state_name
+id           
+4     context"
+9113.234909	0.001502999999502208	states												"   state_name
+id           
+6       csgap"
+9113.236412	1.0005070000006526	states												"   state_name
+id           
+11    stim_on"
+9114.236919	0.00148799999988114	states												"   state_name
+id           
+12   stim_off"
+9114.238407	1.0960009999998874	states												"        state_name
+id                
+13  wait_for_spoke"
+9115.334408	0.0005009999986214098	states												"             state_name
+id                     
+15  soff_reward_chooser"
+9115.334909	0.03850400000010268	states												"         state_name
+id                 
+16  reward_big_soff"
+9115.373413	0.009497000000919797	states												"         state_name
+id                 
+23  post_reward_off"
+9115.38291	9.318997000000309	states												"         state_name
+id                 
+24  soft_drink_time"
+9124.701907	0.0005000000001018634	states												"    state_name
+id            
+25  warndanger"
+9124.702407	3.0000009999985195	states												"            state_name
+id                    
+26  warndanger_warning"
+9127.702915	1908.2920020000001	trials	1.0	l	1.0	p	1.0	r	0.0	0.0	1.0	l	p	
+9127.702915	1908.2920020000001	states												"   state_name
+id           
+0     state_0"
+9127.702915	0.015996000000086497	states												"          state_name
+id                  
+1   sending_trialnum"
+9127.718911	1857.6604960000004	states												"      state_name
+id              
+3   wait_for_cin"
+10985.379407	1.0000070000005508	states												"   state_name
+id           
+4     context"
+10986.379414	0.001502999999502208	states												"   state_name
+id           
+6       csgap"
+10986.380917	1.0000039999995352	states												"   state_name
+id           
+11    stim_on"
+10987.380921	0.0014869999995426042	states												"   state_name
+id           
+12   stim_off"
+10987.382408	41.355499000001146	states												"        state_name
+id                
+13  wait_for_spoke"
+11028.737907	0.0005019999989599455	states												"             state_name
+id                     
+15  soff_reward_chooser"
+11028.738409	0.03850899999997637	states												"         state_name
+id                 
+16  reward_big_soff"
+11028.776918	1.6754899999996269	states												"         state_name
+id                 
+23  post_reward_off"
+11030.452408	2.54149900000084	states												"         state_name
+id                 
+24  soft_drink_time"
+11032.993907	0.0005000000001018634	states												"    state_name
+id            
+25  warndanger"
+11032.994407	3.0005099999998492	states												"            state_name
+id                    
+26  warndanger_warning"
+11035.995407	131.40750300000036	trials	1.0	l	1.0	p	1.0	r	0.0	0.0	1.0	l	p	
+11035.995407	131.40750300000036	states												"   state_name
+id           
+0     state_0"
+11035.995407	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+11036.011407	124.08500000000095	states												"      state_name
+id              
+3   wait_for_cin"
+11160.096407	1.00050199999896	states												"   state_name
+id           
+4     context"
+11161.096909	0.0014979999996285187	states												"   state_name
+id           
+6       csgap"
+11161.098407	0.3025020000004588	states												"   state_name
+id           
+11    stim_on"
+11161.400909	0.0004979999994247919	states												"            state_name
+id                    
+14  son_reward_chooser"
+11161.401407	0.038500000000567525	states												"        state_name
+id                
+17  reward_big_son"
+11161.439907	0.9619999999995343	states												"        state_name
+id                
+22  post_reward_on"
+11162.401907	2.0	states												"         state_name
+id                 
+23  post_reward_off"
+11164.401907	0.0005000000001018634	states												"    state_name
+id            
+25  warndanger"
+11164.402407	3.0005030000011175	states												"            state_name
+id                    
+26  warndanger_warning"
+11167.403407	14.803001000000222	trials	1.0	l	1.0	p	1.0	r	0.0	0.0	1.0	l	p	
+11167.403407	14.803001000000222	states												"   state_name
+id           
+0     state_0"
+11167.403407	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+11167.419407	6.935999999999694	states												"      state_name
+id              
+3   wait_for_cin"
+11174.355407	1.0005000000001019	states												"   state_name
+id           
+4     context"
+11175.355907	0.001006000000415952	states												"   state_name
+id           
+6       csgap"
+11175.356913	0.5120019999994838	states												"   state_name
+id           
+11    stim_on"
+11175.868915	0.0004920000010315562	states												"            state_name
+id                    
+14  son_reward_chooser"
+11175.869407	0.038500000000567525	states												"        state_name
+id                
+17  reward_big_son"
+11175.907907	0.9619999999995343	states												"        state_name
+id                
+22  post_reward_on"
+11176.869907	0.32599999999911233	states												"         state_name
+id                 
+23  post_reward_off"
+11177.195907	2.0095000000001164	states												"         state_name
+id                 
+24  soft_drink_time"
+11179.205407	0.0005000000001018634	states												"    state_name
+id            
+25  warndanger"
+11179.205907	3.0005010000004404	states												"            state_name
+id                    
+26  warndanger_warning"
+11182.20692	12.272487000000183	trials	1.0	l	1.0	p	1.0	r	0.0	0.0	1.0	l	p	
+11182.20692	12.272487000000183	states												"   state_name
+id           
+0     state_0"
+11182.20692	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+11182.22292	3.654990999999427	states												"      state_name
+id              
+3   wait_for_cin"
+11185.877911	1.0000010000003385	states												"   state_name
+id           
+4     context"
+11186.877912	0.0014950000004319008	states												"   state_name
+id           
+6       csgap"
+11186.879407	0.0319999999992433	states												"   state_name
+id           
+11    stim_on"
+11186.911407	0.0005000000001018634	states												"            state_name
+id                    
+14  son_reward_chooser"
+11186.911907	0.03850100000090606	states												"        state_name
+id                
+17  reward_big_son"
+11186.950408	0.9619989999991958	states												"        state_name
+id                
+22  post_reward_on"
+11187.912407	0.6239999999997963	states												"         state_name
+id                 
+23  post_reward_off"
+11188.536407	2.942500999999538	states												"         state_name
+id                 
+24  soft_drink_time"
+11191.478908	0.0004990000015823171	states												"    state_name
+id            
+25  warndanger"
+11191.479407	3.0	states												"            state_name
+id                    
+26  warndanger_warning"
+11194.479907	10.341507999999521	trials	0.0	l	1.0	p	1.0	r	0.0	0.0	0.0	l	p	
+11194.479907	10.341507999999521	states												"   state_name
+id           
+0     state_0"
+11194.479907	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+11194.495907	4.19800000000032	states												"      state_name
+id              
+3   wait_for_cin"
+11198.693907	1.0	states												"   state_name
+id           
+4     context"
+11199.693907	0.0010009999987232732	states												"   state_name
+id           
+6       csgap"
+11199.694908	0.12550000000010186	states												"   state_name
+id           
+11    stim_on"
+11199.820408	5.0010070000007545	states												"     state_name
+id             
+28  error_state"
+11204.821907	10.483001000000513	trials	0.0	r	2.0	p	1.0	r	0.0	0.0	0.0	r	p	
+11204.821907	10.483001000000513	states												"   state_name
+id           
+0     state_0"
+11204.821907	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+11204.837907	2.1450130000011995	states												"      state_name
+id              
+3   wait_for_cin"
+11206.98292	1.0004869999993389	states												"   state_name
+id           
+4     context"
+11207.983407	0.001516000000265194	states												"   state_name
+id           
+6       csgap"
+11207.984923	1.0004840000001423	states												"   state_name
+id           
+11    stim_on"
+11208.985407	0.0010000000002037268	states												"   state_name
+id           
+12   stim_off"
+11208.986407	1.3174999999991996	states												"        state_name
+id                
+13  wait_for_spoke"
+11210.303907	5.001001000000542	states												"     state_name
+id             
+28  error_state"
+11215.305407	32.42700900000091	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+11215.305407	32.42700900000091	states												"   state_name
+id           
+0     state_0"
+11215.305407	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+11215.321407	21.801000000001295	states												"      state_name
+id              
+3   wait_for_cin"
+11237.122407	1.0000009999985195	states												"   state_name
+id           
+4     context"
+11238.122408	0.0015030000013211975	states												"   state_name
+id           
+6       csgap"
+11238.123911	1.0004959999987477	states												"   state_name
+id           
+11    stim_on"
+11239.124407	0.0010000000002037268	states												"   state_name
+id           
+12   stim_off"
+11239.125407	3.5630030000011175	states												"        state_name
+id                
+13  wait_for_spoke"
+11242.68841	0.0005099999998492422	states												"             state_name
+id                     
+15  soff_reward_chooser"
+11242.68892	0.04298699999890232	states												"         state_name
+id                 
+16  reward_big_soff"
+11242.731907	2.000004000001354	states												"         state_name
+id                 
+23  post_reward_off"
+11244.731911	0.0004959999987477204	states												"    state_name
+id            
+25  warndanger"
+11244.732407	3.000009000001228	states												"            state_name
+id                    
+26  warndanger_warning"
+11247.732917	1557.1940000000013	trials	0.0	r	2.0	p	1.0	r	0.0	0.0	0.0	r	p	
+11247.732917	1557.1940000000013	states												"   state_name
+id           
+0     state_0"
+11247.732917	0.016000999999960186	states												"          state_name
+id                  
+1   sending_trialnum"
+11247.748918	1548.551499000001	states												"      state_name
+id              
+3   wait_for_cin"
+12796.300417	1.0005049999999756	states												"   state_name
+id           
+4     context"
+12797.300922	0.0014859999992040684	states												"   state_name
+id           
+6       csgap"
+12797.302408	1.0	states												"   state_name
+id           
+11    stim_on"
+12798.302408	0.0014989999999670545	states												"   state_name
+id           
+12   stim_off"
+12798.303907	1.6220000000012078	states												"        state_name
+id                
+13  wait_for_spoke"
+12799.925907	5.001009999999951	states												"     state_name
+id             
+28  error_state"
+12804.927407	11.861505000000761	trials	0.0	r	2.0	p	1.0	r	0.0	0.0	0.0	r	p	
+12804.927407	11.861505000000761	states												"   state_name
+id           
+0     state_0"
+12804.927407	0.01600000000144064	states												"          state_name
+id                  
+1   sending_trialnum"
+12804.943407	0.6095100000002276	states												"      state_name
+id              
+3   wait_for_cin"
+12805.552917	1.0004899999985355	states												"   state_name
+id           
+4     context"
+12806.553407	0.0010010000005422626	states												"   state_name
+id           
+6       csgap"
+12806.554408	1.000503999999637	states												"   state_name
+id           
+11    stim_on"
+12807.554912	0.0014960000007704366	states												"   state_name
+id           
+12   stim_off"
+12807.556408	4.231504999999743	states												"        state_name
+id                
+13  wait_for_spoke"
+12811.787913	5.000998999999865	states												"     state_name
+id             
+28  error_state"
+12816.789407	9.509000000000015	trials	0.0	r	2.0	p	1.0	r	0.0	0.0	0.0	r	p	
+12816.789407	9.509000000000015	states												"   state_name
+id           
+0     state_0"
+12816.789407	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+12816.805407	1.3260000000009313	states												"      state_name
+id              
+3   wait_for_cin"
+12818.131407	1.0005000000001019	states												"   state_name
+id           
+4     context"
+12819.131907	0.0010119999988091877	states												"   state_name
+id           
+6       csgap"
+12819.132919	1.0004879999996774	states												"   state_name
+id           
+11    stim_on"
+12820.133407	0.0010020000008807983	states												"   state_name
+id           
+12   stim_off"
+12820.134409	1.1629979999997886	states												"        state_name
+id                
+13  wait_for_spoke"
+12821.297407	5.001000000000204	states												"     state_name
+id             
+28  error_state"
+12826.298916	1326.3964969999997	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+12826.298916	1326.3964969999997	states												"   state_name
+id           
+0     state_0"
+12826.298916	0.01599999999962165	states												"          state_name
+id                  
+1   sending_trialnum"
+12826.314916	1319.2149910000007	states												"      state_name
+id              
+3   wait_for_cin"
+14145.529907	1.0000079999990703	states												"   state_name
+id           
+4     context"
+14146.529915	0.001492000001235283	states												"   state_name
+id           
+6       csgap"
+14146.531407	0.16200099999878148	states												"   state_name
+id           
+11    stim_on"
+14146.693408	0.0005140000012033852	states												"            state_name
+id                    
+14  son_reward_chooser"
+14146.693922	0.04298500000004424	states												"        state_name
+id                
+17  reward_big_son"
+14146.736907	0.9575009999989561	states												"        state_name
+id                
+22  post_reward_on"
+14147.694408	2.000500000000102	states												"         state_name
+id                 
+23  post_reward_off"
+14149.694908	0.0004989999997633277	states												"    state_name
+id            
+25  warndanger"
+14149.695407	3.0000060000002122	states												"            state_name
+id                    
+26  warndanger_warning"
+14152.695907	30.38000000000102	trials	1.0	r	2.0	p	1.0	r	0.0	0.0	1.0	r	p	
+14152.695907	30.38000000000102	states												"   state_name
+id           
+0     state_0"
+14152.695907	0.01600000000144064	states												"          state_name
+id                  
+1   sending_trialnum"
+14152.711907	16.67449999999917	states												"      state_name
+id              
+3   wait_for_cin"
+14169.386407	1.0	states												"   state_name
+id           
+4     context"
+14170.386407	0.0015000000003055902	states												"   state_name
+id           
+6       csgap"
+14170.387907	0.6905009999991307	states												"   state_name
+id           
+11    stim_on"
+14171.078408	0.0005000000001018634	states												"            state_name
+id                    
+14  son_reward_chooser"
+14171.078908	0.04300300000068091	states												"        state_name
+id                
+17  reward_big_son"
+14171.121911	0.9574959999990824	states												"        state_name
+id                
+22  post_reward_on"
+14172.079407	0.28800000000046566	states												"         state_name
+id                 
+23  post_reward_off"
+14172.367407	7.707515000000058	states												"         state_name
+id                 
+24  soft_drink_time"
+14180.074922	0.0004850000004807953	states												"    state_name
+id            
+25  warndanger"
+14180.075407	3.000500000000102	states												"            state_name
+id                    
+26  warndanger_warning"
